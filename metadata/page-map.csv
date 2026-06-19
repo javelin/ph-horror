@@ -1,0 +1,12 @@
+source_id,source_pdf_page,original_page,section,description,status,notes
+odd-001,1,front-title,front matter,half title,unreviewed,
+odd-002,2,front-poem,front matter,poem or dedication,unreviewed,
+odd-003,3,front-contents,front matter,table of contents,unreviewed,
+odd-004,4,front-title-illustrated,front matter,illustrated title page,unreviewed,
+odd-005,5,front-title-illustrated,front matter,alternate capture of illustrated title page,unreviewed,possible duplicate
+even-001,1,back-cover,closing matter,back cover,unreviewed,
+even-002,2,endpaper,closing matter,endpaper or blank,unreviewed,
+even-003,3,endpaper,closing matter,endpaper or blank,unreviewed,possible duplicate
+even-004,4,endpaper,closing matter,endpaper or blank,unreviewed,possible duplicate
+even-005,5,publication,front matter,publication and copyright information,unreviewed,
+
