@@ -25,3 +25,20 @@ odd-011,11,19,lamanlupa,Ang Nunò sa Punsó,checked,
 even-070,70,20,lamanlupa,Ang Daligmatá,checked,
 odd-012,12,21,lamanlupa,Ang Tamáwo,checked,
 even-069,69,22,lamanlupa,Ang Kokok,checked,
+odd-013,13,23,lamanlupa,Si Magwáyen,checked,
+odd-014,14,23,lamanlupa,Si Magwáyen duplicate,duplicate,duplicate of odd-013
+even-068,68,24,lamanlupa,Ang Búsaw,checked,
+odd-015,15,25,lamanlupa,illustration-only page,checked,no book text
+even-067,67,26,lamanlupa,washed-out page,blocked,source is almost entirely illegible; see docs/scan-issues.md
+odd-016,16,27,halimaw,Mga Halímaw section introduction,checked,
+even-066,66,28,halimaw,Ang Berkákan,checked,
+odd-017,17,29,halimaw,Ang Ikugan,checked,
+even-065,65,30,halimaw,Ang Tikbálang,checked,
+odd-018,18,31,halimaw,Ang Tikbálang continuation,checked,
+even-064,64,32,halimaw,Sina Tandáyag at Rabut,checked,
+odd-019,19,33,halimaw,Sina Tandáyag at Rabut continuation,checked,
+even-063,63,34,halimaw,Si Oriól,checked,
+even-062,62,34,halimaw,Si Oriól duplicate,duplicate,duplicate of even-063
+odd-020,20,35,halimaw,Ang Onglô,checked,
+even-061,61,36,halimaw,Ang Sigbín,checked,
+odd-021,21,37,halimaw,Ang Sigbín continuation,checked,

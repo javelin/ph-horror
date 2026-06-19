@@ -18,6 +18,7 @@ means that the scan has not yet been mapped confidently.
 | --- | ---: | --- | --- | --- | --- |
 | `even-075` | 10 | High | The bottom of the main paragraph is cut off. The sentence beginning “Humuhuni na tulad ng isang ibon ang…” does not continue in the scan. | Missing text at the end of the main entry for **Ang Tiyának**. | Compare with the physical page and supply the missing words. |
 | `even-072` | 16 | Critical | Almost the entire page is washed out and illegible. | No trustworthy transcription is currently possible. | Rescan or photograph printed page 16. |
+| `even-067` | 26 | Critical | Almost the entire page is washed out and illegible. | No trustworthy transcription is currently possible. | Rescan or photograph printed page 26. |
 
 ## Suspected poor or unusable captures
 
@@ -38,7 +39,6 @@ being discarded.
 | `even-038` | Unknown | Nearly blank or heavily washed out. | Needs manuscript comparison |
 | `even-049` | Unknown | Nearly blank or heavily washed out. | Needs manuscript comparison |
 | `even-056` | Unknown | Nearly blank or heavily washed out. | Needs manuscript comparison |
-| `even-067` | Unknown | Nearly blank or heavily washed out. | Needs manuscript comparison |
 | `even-076` | Unknown | Very faint reverse or bleed-through image; content uncertain. | Needs manuscript comparison |
 | `even-078` | Unknown | Extremely dark; content cannot be identified reliably. | Needs manuscript comparison |
 | `even-080` | Unknown | Contains a visible scanning-application artifact over the page. | Needs a clean rescan if the underlying page contains book text |
@@ -70,4 +70,3 @@ When a physical page is checked:
 4. Update this register and `metadata/page-map.csv`.
 5. Replace `[kulang ang scan]` only after the missing wording has been verified
    directly from the book.
-
