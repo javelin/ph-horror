@@ -12,6 +12,7 @@ pagination of the source. Illustrations are intentionally omitted.
 - `transcription/pages/` - verified body pages stored by printed page number
 - `metadata/page-map.csv` - correspondence between source scans and book pages
 - `docs/transcription-policy.md` - editorial and uncertainty conventions
+- `docs/scan-issues.md` - damaged, incomplete, and suspicious source scans
 
 Generated PDF, DOCX, and EPUB editions will be placed in `output/` and are not
 committed unless explicitly selected as release artifacts.

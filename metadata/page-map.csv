@@ -12,7 +12,7 @@ even-005,5,publication,front matter,publication and copyright information,checke
 even-015,15,128,bathala,Sina Talagbúsaw at Mandarangan,checked,even-page body runs in descending printed-page order
 even-016,16,126,bathala,Sina Manáma at Ogássi,unreviewed,
 odd-006,6,9,lamanlupa,Mga Lamánlupà section introduction,checked,
-even-075,75,10,lamanlupa,Ang Tiyának,checked,lower text is cut off in source scan
+even-075,75,10,lamanlupa,Ang Tiyának,blocked,lower text is cut off in source scan; see docs/scan-issues.md
 odd-007,7,11,lamanlupa,Ang Tiyának continuation,checked,
 even-074,74,12,lamanlupa,Ang Alán,checked,
 odd-008,8,13,lamanlupa,Ang Ambáboy,checked,
