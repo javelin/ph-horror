@@ -1,7 +1,7 @@
-# 101 Kagila-gilalas na Nilalang
+# 101 Kagila-gilalás na Nilaláng
 
 This repository contains a page-preserving, text-only transcription of the
-Filipino book *101 Kagila-gilalas na Nilalang*.
+Filipino book *101 Kagila-gilalás na Nilaláng*.
 
 The transcription preserves the wording, spelling, punctuation, and printed
 pagination of the source. Illustrations are intentionally omitted.
@@ -9,6 +9,7 @@ pagination of the source. Illustrations are intentionally omitted.
 ## Repository layout
 
 - `transcription/book.md` - the readable master transcription
+- `transcription/pages/` - verified body pages stored by printed page number
 - `metadata/page-map.csv` - correspondence between source scans and book pages
 - `docs/transcription-policy.md` - editorial and uncertainty conventions
 
