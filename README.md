@@ -15,3 +15,16 @@ pagination of the source. Illustrations are intentionally omitted.
 
 Generated PDF, DOCX, and EPUB editions will be placed in `output/` and are not
 committed unless explicitly selected as release artifacts.
+
+To assemble the front matter and all numbered page files into one Markdown
+document:
+
+```sh
+node scripts/assemble-book.mjs
+```
+
+Validate page markers and source-scan uniqueness with:
+
+```sh
+node scripts/validate-transcription.mjs
+```
