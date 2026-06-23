@@ -4,6 +4,15 @@ const root = new URL("../", import.meta.url);
 const pagesDirectory = new URL("compressed/pages/", root);
 const pageMapUrl = new URL("compressed/page-map.csv", root);
 const errors = [];
+const categories = new Set([
+  "LAMÁNLUPÀ",
+  "HALÍMAW",
+  "ASWÁNG",
+  "BAYÁNI",
+  "ANÍTO",
+  "DIWATÀ",
+  "BATHALÀ",
+]);
 
 const pageFiles = (await fs.readdir(pagesDirectory))
   .filter((name) => /^\d{4}\.md$/u.test(name))
@@ -30,6 +39,11 @@ for (const pageFile of pageFiles) {
   const headings = text.match(/^# .+$/gmu) ?? [];
   if (headings.length !== 1) {
     errors.push(`${pageFile}: expected one topic heading, found ${headings.length}`);
+  }
+
+  const footer = text.trim().split("\n").at(-1);
+  if (!categories.has(footer)) {
+    errors.push(`${pageFile}: missing or invalid category footer`);
   }
 
   for (const originalPage of marker[2].split(";")) {
