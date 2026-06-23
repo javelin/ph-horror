@@ -23,6 +23,7 @@ means that the scan has not yet been mapped confidently.
 | `even-049` | 60 | Critical | Almost the entire page is washed out and illegible. | No trustworthy transcription is currently possible. | Rescan or photograph printed page 60. |
 | `even-038` | 82 | Critical | Almost the entire page is washed out and illegible. | No trustworthy transcription is currently possible. | Rescan or photograph printed page 82. |
 | `even-031` | 96 | Critical | Almost the entire page is washed out and illegible. | No trustworthy transcription is currently possible. | Rescan or photograph printed page 96. |
+| `even-024` | 110 | Critical | Extreme darkness and bleed-through obscure nearly the entire page. | No trustworthy transcription is currently possible. | Rescan or photograph printed page 110. |
 
 ## Suspected poor or unusable captures
 
@@ -38,7 +39,6 @@ being discarded.
 | `even-010` | Unknown | Extremely dark; likely a repeated capture. | Needs manuscript comparison |
 | `even-012` | Unknown | Dark bleed-through obscures the page. | Needs manuscript comparison |
 | `even-014` | Unknown | Dark bleed-through obscures the page. | Needs manuscript comparison |
-| `even-024` | Unknown | Dark bleed-through obscures most content. | Needs manuscript comparison |
 | `even-076` | Unknown | Very faint reverse or bleed-through image; content uncertain. | Needs manuscript comparison |
 | `even-078` | Unknown | Extremely dark; content cannot be identified reliably. | Needs manuscript comparison |
 | `even-080` | Unknown | Contains a visible scanning-application artifact over the page. | Needs a clean rescan if the underlying page contains book text |
@@ -59,12 +59,6 @@ identical in the contact-sheet review:
 
 These groups remain provisional until their printed page numbers and text are
 compared at full resolution.
-
-## Missing printed pages
-
-| Printed page | Problem | Transcription impact | Resolution |
-| ---: | --- | --- | --- |
-| 105 | No corresponding page was found in either supplied PDF. The odd scans `odd-063` through `odd-066` repeat printed page 103, while `even-027` and `even-026` are printed pages 104 and 106. | Printed page 105 cannot currently be transcribed or assigned a source ID. | Rescan or photograph printed page 105. |
 
 ## Review procedure
 

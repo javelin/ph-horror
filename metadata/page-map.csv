@@ -10,7 +10,7 @@ even-003,3,endpaper,closing matter,endpaper or blank,unreviewed,possible duplica
 even-004,4,endpaper,closing matter,endpaper or blank,unreviewed,possible duplicate
 even-005,5,publication,front matter,publication and copyright information,checked,
 even-015,15,128,bathala,Sina Talagbúsaw at Mandarangan,checked,even-page body runs in descending printed-page order
-even-016,16,126,bathala,Sina Manáma at Ogássi,unreviewed,
+even-016,16,126,bathala,Sina Manáma at Ogássi,checked,
 odd-006,6,9,lamanlupa,Mga Lamánlupà section introduction,checked,
 even-075,75,10,lamanlupa,Ang Tiyának,blocked,lower text is cut off in source scan; see docs/scan-issues.md
 odd-007,7,11,lamanlupa,Ang Tiyának continuation,checked,
@@ -118,4 +118,32 @@ odd-062,62,101,diwata,Si Gaygayóma,checked,
 even-028,28,102,diwata,"Sina Maria Cacao, Maria Makiling, at Maria Sinukuan",checked,
 odd-063,63,103,diwata,"Sina Maria Cacao, Maria Makiling, at Maria Sinukuan continuation",checked,
 odd-064,64,103,diwata,"Sina Maria Cacao, Maria Makiling, at Maria Sinukuan continuation duplicate",duplicate,duplicate of odd-063
+odd-065,65,103,diwata,"Sina Maria Cacao, Maria Makiling, at Maria Sinukuan continuation duplicate",duplicate,duplicate of odd-063
+odd-066,66,103,diwata,"Sina Maria Cacao, Maria Makiling, at Maria Sinukuan continuation duplicate",duplicate,duplicate of odd-063
 even-027,27,104,diwata,Si Idyanále,checked,
+odd-067,67,105,diwata,Si Halíya,checked,
+even-026,26,106,diwata,Si Ikapáti,checked,
+odd-068,68,107,diwata,Si Alunsína,checked,
+even-025,25,108,diwata,Si Ipememehandi,checked,
+odd-069,69,109,diwata,Si Baít Pándi,checked,
+even-024,24,110,diwata,dark bleed-through page,blocked,source is almost entirely illegible; see docs/scan-issues.md
+odd-070,70,111,bathala,Mga Bathalà section introduction,checked,
+even-023,23,112,bathala,Sina Kabunyían at Lumáwig,checked,
+odd-071,71,113,bathala,Sina Kabunyían at Lumáwig continuation,checked,
+even-022,22,114,bathala,Si Kadaklán,checked,
+odd-072,72,115,bathala,Si Aponitolau,checked,
+odd-073,73,115,bathala,Si Aponitolau duplicate,duplicate,duplicate of odd-072
+even-021,21,116,bathala,Si Angaló,checked,
+odd-074,74,117,bathala,Si Balangáw,checked,
+odd-075,75,117,bathala,Si Balangáw duplicate,duplicate,duplicate of odd-074
+even-020,20,118,bathala,Si Amánsináya,checked,
+odd-076,76,119,bathala,Si Malyári,checked,
+odd-077,77,119,bathala,Si Malyári duplicate,duplicate,duplicate of odd-076
+even-019,19,120,bathala,Si Manawbanaw,checked,
+odd-078,78,121,bathala,Si Libtákan,checked,
+odd-079,79,121,bathala,Si Libtákan duplicate,duplicate,duplicate of odd-078
+even-018,18,122,bathala,Si Kaptán,checked,
+odd-080,80,123,bathala,Si Gugúrang,checked,
+even-017,17,124,bathala,Si Tungkúng Lángit,checked,
+odd-081,81,125,bathala,Si Burólakaw at Si Makabósog,checked,
+odd-082,82,127,bathala,Sina Manáma at Ogássi continuation,checked,
