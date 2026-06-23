@@ -20,6 +20,16 @@ const sectionHeaders = new Set([
   "Mga Bathalà",
 ]);
 
+function categoryForOriginalPage(page) {
+  if (page <= 26) return "LAMÁNLUPÀ";
+  if (page <= 46) return "HALÍMAW";
+  if (page <= 60) return "ASWÁNG";
+  if (page <= 82) return "BAYÁNI";
+  if (page <= 96) return "ANÍTO";
+  if (page <= 110) return "DIWATÀ";
+  return "BATHALÀ";
+}
+
 function csv(value) {
   const text = String(value);
   return /[",\n]/.test(text) ? `"${text.replaceAll('"', '""')}"` : text;
@@ -174,6 +184,7 @@ for (const [index, topic] of topics.entries()) {
   const compressedPage = index + 1;
   const filename = `${String(compressedPage).padStart(4, "0")}.md`;
   const originalPages = topic.originalPages.join(";");
+  const category = categoryForOriginalPage(topic.originalPages[0]);
   const notes = [];
 
   if (sectionHeaders.has(topic.title)) {
@@ -196,7 +207,7 @@ for (const [index, topic] of topics.entries()) {
   const marker =
     `<!-- compressed-page: ${compressedPage} | ` +
     `original-pages: ${originalPages} -->`;
-  const pageText = `${marker}\n\n${body}\n`;
+  const pageText = `${marker}\n\n${body}\n\n${category}\n`;
 
   await fs.writeFile(
     new URL(filename, compressedPagesDirectory),

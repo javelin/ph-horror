@@ -114,6 +114,8 @@ nagagawi sa masusukal o di-kilaláng lugar. Sa ibang pagkakataon naman,
 sinasadya ng mga lamánlupà na makipaglaro sa mga tao o saktan ang mga ito.
 Kilalá ang mga lamánlupà bílang kaibaan sa Pangasinan at tamyáw sa Waray.
 
+LAMÁNLUPÀ
+
 <div style="page-break-after: always;"></div>
 
 <!-- compressed-page: 2 | original-pages: 10;11 -->
@@ -152,6 +154,8 @@ _[Guhit ni Stephen Prestado.]_
 
 _[Guhit ni Stephen Prestado.]_
 
+LAMÁNLUPÀ
+
 <div style="page-break-after: always;"></div>
 
 <!-- compressed-page: 3 | original-pages: 12 -->
@@ -175,6 +179,8 @@ minsan ay pinagtatawanan lang nila ito o kayâ'y dinadaya sa mga ritwal.
 
 _[Guhit ni Stephen Prestado.]_
 
+LAMÁNLUPÀ
+
 <div style="page-break-after: always;"></div>
 
 <!-- compressed-page: 4 | original-pages: 13 -->
@@ -191,6 +197,8 @@ Ifugaw ang *umalih* o pagtawag sa kaluluwa ng maysakit sa punòng
 pinaniniwalaang tahanan ng ambáboy.
 
 _[Guhit ni Jap Mikel.]_
+
+LAMÁNLUPÀ
 
 <div style="page-break-after: always;"></div>
 
@@ -209,6 +217,8 @@ Nag-aalay sila ng manok o iba pang hayop kay Masíken upang hindi nito kunin ang
 maysakit, at sa halip ay pagalingin ito.
 
 _[Guhit ni Kat Matias.]_
+
+LAMÁNLUPÀ
 
 <div style="page-break-after: always;"></div>
 
@@ -235,6 +245,8 @@ nawawalang alagang hayop.
 
 _[Guhit nina Mico Dimagiba at Borg Sinaban.]_
 
+LAMÁNLUPÀ
+
 <div style="page-break-after: always;"></div>
 
 <!-- compressed-page: 7 | original-pages: 16 -->
@@ -242,6 +254,8 @@ _[Guhit nina Mico Dimagiba at Borg Sinaban.]_
 # Hindi mabása: pahina 16
 
 [kulang ang scan: halos hindi mabasa ang buong pahina]
+
+LAMÁNLUPÀ
 
 <div style="page-break-after: always;"></div>
 
@@ -271,6 +285,8 @@ namayapang kamag-anak o ng demonyo.
 
 _[Guhit ni Kat Matias.]_
 
+LAMÁNLUPÀ
+
 <div style="page-break-after: always;"></div>
 
 <!-- compressed-page: 9 | original-pages: 18 -->
@@ -289,6 +305,8 @@ táong natagpuan sa daan, sakâ inilalagay sa kaniyang balikat bago iwan sa itaa
 ng isang punò.
 
 _[Guhit ni Kat Matias.]_
+
+LAMÁNLUPÀ
 
 <div style="page-break-after: always;"></div>
 
@@ -313,6 +331,8 @@ dumaraan sa lugar na masukal o ilahas.
 
 _[Guhit ni Jap Mikel.]_
 
+LAMÁNLUPÀ
+
 <div style="page-break-after: always;"></div>
 
 <!-- compressed-page: 11 | original-pages: 20 -->
@@ -329,6 +349,8 @@ Sa ibang pagkakataon naman, mismong ang daligmatá ang nagnanakaw sa kaluluwa ng
 isang táong nananaginip. Nagagawa ito ng daligmatá sa pamamagitan ng pagkanta.
 
 _[Guhit ni Stephen Prestado.]_
+
+LAMÁNLUPÀ
 
 <div style="page-break-after: always;"></div>
 
@@ -362,6 +384,8 @@ kabilâ.
 
 _[Guhit ni Mico Dimagiba.]_
 
+LAMÁNLUPÀ
+
 <div style="page-break-after: always;"></div>
 
 <!-- compressed-page: 13 | original-pages: 22 -->
@@ -376,6 +400,8 @@ sipon, at pagsakit ng tiyan ang sakit ng biktima. Subalit may masasamá ring
 kokok na nangangain ng batà, ayon sa mga Muslim.
 
 _[Guhit ni Stephen Prestado.]_
+
+LAMÁNLUPÀ
 
 <div style="page-break-after: always;"></div>
 
@@ -395,6 +421,8 @@ mas mabuting lugar kaysa kailaliman. Inaagaw niya ang mga kaluluwang iyon mula
 kay Magwáyen.
 
 _[Guhit ni Jap Mikel.]_
+
+LAMÁNLUPÀ
 
 <div style="page-break-after: always;"></div>
 
@@ -436,6 +464,8 @@ _[Pahinang larawan lámang; walang tekstong pang-aklat.]_
 
 _[Guhit ni Stephen Prestado.]_
 
+LAMÁNLUPÀ
+
 <div style="page-break-after: always;"></div>
 
 <!-- compressed-page: 16 | original-pages: 26 -->
@@ -443,6 +473,8 @@ _[Guhit ni Stephen Prestado.]_
 # Hindi mabása: pahina 26
 
 [kulang ang scan: halos hindi mabasa ang buong pahina]
+
+LAMÁNLUPÀ
 
 <div style="page-break-after: always;"></div>
 
@@ -457,6 +489,8 @@ tagapaghatid ng kasawian sa mga tao o pagkawasak sa mundo. May mga halímaw ring
 **dambuhalà** ng dagat, lupa, at hangin na may pinagsámang anyo ng hayop at
 tao. Tinatawag itong **alíwas** sa Hiligaynon, at **amamálìw** o **mangtás** sa
 Sebwano.
+
+HALÍMAW
 
 <div style="page-break-after: always;"></div>
 
@@ -475,6 +509,8 @@ berkákan. Gayumpaman, muling binuhay si Lam-ang ng alaga niyang tandang
 
 _[Guhit ni Leo Kempis Ang.]_
 
+HALÍMAW
+
 <div style="page-break-after: always;"></div>
 
 <!-- compressed-page: 19 | original-pages: 29 -->
@@ -489,6 +525,8 @@ habang nakaupo sa matayog na punò. Pagkatapos, sasakalin nito ang biktima bago
 ibagsak sa lupa.
 
 _[Guhit ni Stephen Prestado.]_
+
+HALÍMAW
 
 <div style="page-break-after: always;"></div>
 
@@ -526,6 +564,8 @@ _[Guhit ni Leo Kempis Ang.]_
 
 _[Guhit ni Leo Kempis Ang.]_
 
+HALÍMAW
+
 <div style="page-break-after: always;"></div>
 
 <!-- compressed-page: 21 | original-pages: 32;33 -->
@@ -548,6 +588,8 @@ _[Guhit nina Mico Dimagiba at Borg Sinaban.]_
 
 _[Guhit nina Mico Dimagiba at Borg Sinaban.]_
 
+HALÍMAW
+
 <div style="page-break-after: always;"></div>
 
 <!-- compressed-page: 22 | original-pages: 34 -->
@@ -568,6 +610,8 @@ ni Handiong (tingnan Si Handiong).
 
 _[Guhit ni Stephen Prestado.]_
 
+HALÍMAW
+
 <div style="page-break-after: always;"></div>
 
 <!-- compressed-page: 23 | original-pages: 35 -->
@@ -581,6 +625,8 @@ na kasíntigas ng bató. Káyang-káya nitong wasakin ang isang bagay o nilalán
 Kumakain din ang onglô ng hilaw na karne at mga bungang ilahas.
 
 _[Guhit nina Mico Dimagiba at Borg Sinaban.]_
+
+HALÍMAW
 
 <div style="page-break-after: always;"></div>
 
@@ -619,6 +665,8 @@ _[Guhit nina Mico Dimagiba at Borg Sinaban.]_
 
 _[Guhit ni Kat Matias.]_
 
+HALÍMAW
+
 <div style="page-break-after: always;"></div>
 
 <!-- compressed-page: 25 | original-pages: 38 -->
@@ -644,6 +692,8 @@ Tinatawag ding **lahò** ng mga Tagalog ang bakunáwa.
 
 _[Guhit nina Mico Dimagiba at Borg Sinaban.]_
 
+HALÍMAW
+
 <div style="page-break-after: always;"></div>
 
 <!-- compressed-page: 26 | original-pages: 39 -->
@@ -663,6 +713,8 @@ Gayumpaman, madaling gulatin si Bungisngís. Madali itong malito kapag
 nagkakagulo na ang kaniyang paligid.
 
 _[Guhit ni Stephen Prestado.]_
+
+HALÍMAW
 
 <div style="page-break-after: always;"></div>
 
@@ -689,6 +741,8 @@ nagdulot ng takot sa lahat ng mamamayan.
 
 _[Guhit ni JC Galag.]_
 
+HALÍMAW
+
 <div style="page-break-after: always;"></div>
 
 <!-- compressed-page: 28 | original-pages: 41 -->
@@ -707,6 +761,8 @@ sobhana Allah” na nangangahulugang “si Allah ang pinakadakila, si Allah ang
 pinakadakila.”
 
 _[Guhit ni Stephen Prestado.]_
+
+HALÍMAW
 
 <div style="page-break-after: always;"></div>
 
@@ -729,6 +785,8 @@ ang mga Bagobo upang itaboy ito.
 
 _[Guhit ni JC Galag.]_
 
+HALÍMAW
+
 <div style="page-break-after: always;"></div>
 
 <!-- compressed-page: 30 | original-pages: 43;44 -->
@@ -746,6 +804,8 @@ _[Pahinang larawan lámang; walang tekstong pang-aklat.]_
 
 _[Guhit ni Mico Dimagiba.]_
 
+HALÍMAW
+
 <div style="page-break-after: always;"></div>
 
 <!-- compressed-page: 31 | original-pages: 45 -->
@@ -760,6 +820,8 @@ Nilulunod ng siyókoy ang mga táong natiyak nitong kumakain ng isda. Pagkatapos
 ay sakâ niya kakainin ang mga ito. Makikita ang siyókoy sa mga ilog at lawa at
 maging sa mga binabahâng lugar. Hinihila nito ang mga paa ng binibiktima.
 
+HALÍMAW
+
 <div style="page-break-after: always;"></div>
 
 <!-- compressed-page: 32 | original-pages: 46 -->
@@ -767,6 +829,8 @@ maging sa mga binabahâng lugar. Hinihila nito ang mga paa ng binibiktima.
 # Hindi mabása: pahina 46
 
 [kulang ang scan: halos hindi mabasa ang buong pahina]
+
+HALÍMAW
 
 <div style="page-break-after: always;"></div>
 
@@ -780,6 +844,8 @@ sila bílang karaniwang tao-tahimik at palaiwas. Binibiktima nila ang mga tao sa
 pamamagitan ng pagkain sa lamanloob, o sa pagsipsip ng dugo at iba pang likido
 sa katawan ng mga ito. Tinatawag na **asbáng** ng mga sinaunang Tagalog ang mga
 aswáng.
+
+ASWÁNG
 
 <div style="page-break-after: always;"></div>
 
@@ -827,6 +893,8 @@ _[Guhit ni Kat Matias.]_
 
 _[Guhit ni Stephen Prestado.]_
 
+ASWÁNG
+
 <div style="page-break-after: always;"></div>
 
 <!-- compressed-page: 35 | original-pages: 50 -->
@@ -844,6 +912,8 @@ aswáng na silang nabubuhay sa pagsipsip sa dugo.
 
 _[Guhit ni Sergio Bumatay III.]_
 
+ASWÁNG
+
 <div style="page-break-after: always;"></div>
 
 <!-- compressed-page: 36 | original-pages: 51 -->
@@ -858,6 +928,8 @@ nangangahulugang engkanto. Kayâ naman, káya rin nitong magpagaling nang
 gayom-gayom na lámang. Alipin umano ito ni Sitán, ang naghahari sa Kasanaan.
 
 _[Guhit ni Stephen Prestado.]_
+
+ASWÁNG
 
 <div style="page-break-after: always;"></div>
 
@@ -883,6 +955,8 @@ pinatulis na kawayan.
 
 _[Guhit ni Kat Matias.]_
 
+ASWÁNG
+
 <div style="page-break-after: always;"></div>
 
 <!-- compressed-page: 38 | original-pages: 53 -->
@@ -894,6 +968,8 @@ táong ginawa lámang na aswáng ng iba pang aswáng. May matinding pagkauhaw sa
 dugo ng tao ang yanggáw.
 
 _[Guhit ni Sergio Bumatay III.]_
+
+ASWÁNG
 
 <div style="page-break-after: always;"></div>
 
@@ -915,6 +991,8 @@ amalanhig ang tubig kayâ't hindi nila masusundan ang mga biktimang tumatalon sa
 tubig.
 
 _[Guhit ni Mico Dimagiba.]_
+
+ASWÁNG
 
 <div style="page-break-after: always;"></div>
 
@@ -958,6 +1036,8 @@ bayan-bayan upang makapanakit ng mga tao.
 
 _[Guhit ni Sergio Bumatay III.]_
 
+ASWÁNG
+
 <div style="page-break-after: always;"></div>
 
 <!-- compressed-page: 41 | original-pages: 56;57 -->
@@ -989,6 +1069,8 @@ Tinatawag ding **malakat** sa Sebwano at **aswáng na lakaw** sa Bikol ang kiwig
 _[Guhit ni Mico Dimagiba.]_
 
 _[Guhit ni Mico Dimagiba.]_
+
+ASWÁNG
 
 <div style="page-break-after: always;"></div>
 
@@ -1024,6 +1106,8 @@ _[Guhit ni Stephen Prestado.]_
 
 _[Guhit ni Stephen Prestado.]_
 
+ASWÁNG
+
 <div style="page-break-after: always;"></div>
 
 <!-- compressed-page: 43 | original-pages: 60 -->
@@ -1034,6 +1118,8 @@ _[Kulang ang scan: halos ganap na washed out at hindi mapagkakatiwalaang
 mabása ang teksto ng pahinang ito.]_
 
 60
+
+ASWÁNG
 
 <div style="page-break-after: always;"></div>
 
@@ -1047,6 +1133,8 @@ sa mga lamanlupà, halímaw, at aswáng, dahil sa kanilang natatanging lakas,
 tapang, at kakayahan. Tinatawag silang **banwár** ng mga Ilokano; **bagáni** ng
 mga Bagobo, Blaan, at Mandaya; at **baganihan** ng Hiligaynon. Tampok na
 pangunahing tauhan ang mga bayáni sa ating mga epiko at ilang kuwentong-bayan.
+
+BAYÁNI
 
 <div style="page-break-after: always;"></div>
 
@@ -1108,6 +1196,8 @@ _[Guhit ni JC Galag.]_
 
 _[Guhit ni JC Galag.]_
 
+BAYÁNI
+
 <div style="page-break-after: always;"></div>
 
 <!-- compressed-page: 46 | original-pages: 64;65 -->
@@ -1163,6 +1253,8 @@ _[Guhit nina Mico Dimagiba at Borg Sinaban.]_
 
 _[Guhit nina Mico Dimagiba at Borg Sinaban.]_
 
+BAYÁNI
+
 <div style="page-break-after: always;"></div>
 
 <!-- compressed-page: 47 | original-pages: 66;67 -->
@@ -1190,6 +1282,8 @@ mag-isa sa kalaban.
 _[Guhit ni Jap Mikel.]_
 
 _[Guhit ni Jap Mikel.]_
+
+BAYÁNI
 
 <div style="page-break-after: always;"></div>
 
@@ -1227,6 +1321,8 @@ _[Guhit ni Stephen Prestado.]_
 
 _[Guhit ni Stephen Prestado.]_
 
+BAYÁNI
+
 <div style="page-break-after: always;"></div>
 
 <!-- compressed-page: 49 | original-pages: 70 -->
@@ -1263,6 +1359,8 @@ ang maaaring umawit nitó.
 
 _[Guhit ni Jap Mikel.]_
 
+BAYÁNI
+
 <div style="page-break-after: always;"></div>
 
 <!-- compressed-page: 50 | original-pages: 71 -->
@@ -1288,6 +1386,8 @@ patuloy na umaawit ng kanilang mga salaysay. Ang epiko ni Taguwasi ang
 kauna-unahang epikong naitala mula sa kanilang grupo.
 
 _[Guhit ni Jap Mikel.]_
+
+BAYÁNI
 
 <div style="page-break-after: always;"></div>
 
@@ -1320,6 +1420,8 @@ memorya, makatang haraya, at malalim na kaalaman sa kaugalian at sa kasaysayan
 ng buong lahi ng mga Mëranaw.
 
 _[Guhit ni Jap Mikel.]_
+
+BAYÁNI
 
 <div style="page-break-after: always;"></div>
 
@@ -1355,6 +1457,8 @@ pag-awit nito.
 
 _[Guhit ni Kat Matias-Meneses.]_
 
+BAYÁNI
+
 <div style="page-break-after: always;"></div>
 
 <!-- compressed-page: 53 | original-pages: 74 -->
@@ -1386,6 +1490,8 @@ matiwasay na búhay sa buong pangkat ni Agyu, sa pamamagitan ng paghahanap nila
 sa Nalandangan, at ang magiting nilang pagtatanggol dito laban sa mga kaaway.
 
 _[Guhit ni Jap Mikel.]_
+
+BAYÁNI
 
 <div style="page-break-after: always;"></div>
 
@@ -1422,6 +1528,8 @@ kalabaw.
 
 _[Guhit ni Leo Kempis Ang.]_
 
+BAYÁNI
+
 <div style="page-break-after: always;"></div>
 
 <!-- compressed-page: 55 | original-pages: 76 -->
@@ -1442,6 +1550,8 @@ alagang ibong tinatawag na Manaul, na siyáng dahilan umano kung bakit nagkaroon
 ng tao at hayop sa lupa.
 
 _[Guhit ni Kat Matias.]_
+
+BAYÁNI
 
 <div style="page-break-after: always;"></div>
 
@@ -1476,6 +1586,8 @@ paraan.
 
 _[Guhit ni Jap Mikel.]_
 
+BAYÁNI
+
 <div style="page-break-after: always;"></div>
 
 <!-- compressed-page: 57 | original-pages: 78 -->
@@ -1494,6 +1606,8 @@ kawayang tayakád na ginamit niya sa paglalakad. Sa harap mismo ng sultan,
 pinatunayan niyang nakapaglalakad nga siya sa kawayan.
 
 _[Guhit ni Sergio Bumatay III.]_
+
+BAYÁNI
 
 <div style="page-break-after: always;"></div>
 
@@ -1523,6 +1637,8 @@ pagiging masiste o mabiro, nagagawa nilang pangibabawan ang kanilang kahirapan,
 upang harapin ang mga nasa kapangyarihan.
 
 _[Guhit ni Jap Mikel.]_
+
+BAYÁNI
 
 <div style="page-break-after: always;"></div>
 
@@ -1564,6 +1680,8 @@ _[Guhit ni Jap Mikel.]_
 
 _[Guhit ni Jap Mikel.]_
 
+BAYÁNI
+
 <div style="page-break-after: always;"></div>
 
 <!-- compressed-page: 60 | original-pages: 82 -->
@@ -1574,6 +1692,8 @@ _[Kulang ang scan: halos ganap na washed out at hindi matukoy kung may
 mapagkakatiwalaang teksto ang pahinang ito.]_
 
 82
+
+BAYÁNI
 
 <div style="page-break-after: always;"></div>
 
@@ -1592,6 +1712,8 @@ inukit na bato, o maaari ding bagay na hindi nahihipo o nakikita tulad ng
 hangin, liwanag, at dilim, o isang tinig. Tinatawag ding **búkong** ng mga
 sinaunang Tagalog ang aníto.
 
+ANÍTO
+
 <div style="page-break-after: always;"></div>
 
 <!-- compressed-page: 62 | original-pages: 84 -->
@@ -1602,6 +1724,8 @@ Sa mga Ilokano, ang **lítaw** ay aníto ng karagatan at ilog. Nakatira ang mga
 ito sa balát ng punongkahoy na tumutubo sa tabing-ilog.
 
 _[Guhit ni Kat Matias.]_
+
+ANÍTO
 
 <div style="page-break-after: always;"></div>
 
@@ -1633,6 +1757,8 @@ mahiwaga ang awit at ginagamit sa panghuhula.
 
 _[Guhit ni Mico Dimagiba.]_
 
+ANÍTO
+
 <div style="page-break-after: always;"></div>
 
 <!-- compressed-page: 64 | original-pages: 86 -->
@@ -1651,6 +1777,8 @@ dinapuan ng mahiwagang ibong Manaul.
 
 _[Guhit ni Sergio Bumatay III.]_
 
+ANÍTO
+
 <div style="page-break-after: always;"></div>
 
 <!-- compressed-page: 65 | original-pages: 87 -->
@@ -1666,6 +1794,8 @@ nilikha. Bagama’t nangangahulugan ang makabóteng na “siyang nananakot,”
 nabibilang ito sa ikalawang klase ng mga espiritu.
 
 _[Guhit ni Stephen Prestado.]_
+
+ANÍTO
 
 <div style="page-break-after: always;"></div>
 
@@ -1685,6 +1815,8 @@ sinaunang lipunan ng Samal, tinatawag na **salaksák** ang ibong may ganitong
 kakayahan.
 
 _[Guhit ni Stephen Prestado.]_
+
+ANÍTO
 
 <div style="page-break-after: always;"></div>
 
@@ -1707,6 +1839,8 @@ Ang pámahándi ay nabibilang sa ikalawang uri ng espiritu na tinatawag na
 
 _[Guhit ni Kat Matias.]_
 
+ANÍTO
+
 <div style="page-break-after: always;"></div>
 
 <!-- compressed-page: 68 | original-pages: 90 -->
@@ -1717,6 +1851,8 @@ Sa mga Mëranaw, ang **karibángsa** ang mga espiritung nakatira sa ikalawang
 suson ng mundo. Tinatawag din itong **karibang**.
 
 _[Guhit ni Mico Dimagiba.]_
+
+ANÍTO
 
 <div style="page-break-after: always;"></div>
 
@@ -1741,6 +1877,8 @@ nag-uumpugang bató, at nang makulong siya nang napakaraming taon sa Tarangban
 
 _[Guhit ni Stephen Prestado.]_
 
+ANÍTO
+
 <div style="page-break-after: always;"></div>
 
 <!-- compressed-page: 70 | original-pages: 92 -->
@@ -1758,6 +1896,8 @@ Sa ibang salaysay, tinatawag na **Kimat** ang alagang kulog ni Kadaklán (tingna
 **Si Kadaklán**).
 
 _[Guhit ni Kat Matias.]_
+
+ANÍTO
 
 <div style="page-break-after: always;"></div>
 
@@ -1785,6 +1925,8 @@ May mahiwagang ibon din ang mga Tboli na tinatawag nilang **gimáyaw**.
 
 _[Guhit ni Mico Dimagiba.]_
 
+ANÍTO
+
 <div style="page-break-after: always;"></div>
 
 <!-- compressed-page: 72 | original-pages: 94 -->
@@ -1802,6 +1944,8 @@ pakikipaglaban.
 
 _[Guhit ni Sergio Bumatay III.]_
 
+ANÍTO
+
 <div style="page-break-after: always;"></div>
 
 <!-- compressed-page: 73 | original-pages: 94 -->
@@ -1812,6 +1956,8 @@ Sa mga Tausug, ang **kúra sambaláni** ay puting kabayong lumilipad na nagdadal
 ng mga pinaslang na bayáni, ayon sa tradisyong *kissa parang sabil*.
 
 _[Guhit ni Mico Dimagiba.]_
+
+ANÍTO
 
 <div style="page-break-after: always;"></div>
 
@@ -1824,6 +1970,8 @@ hayop. Mukhang karaniwang babae umano ito, maliban sa pulang kulay ng balát.
 
 _[Guhit ni Sergio Bumatay III.]_
 
+ANÍTO
+
 <div style="page-break-after: always;"></div>
 
 <!-- compressed-page: 75 | original-pages: 96 -->
@@ -1834,6 +1982,8 @@ _[Kulang ang scan: halos ganap na washed out at hindi mapagkakatiwalaang
 mabása ang teksto ng pahinang ito.]_
 
 96
+
+ANÍTO
 
 <div style="page-break-after: always;"></div>
 
@@ -1849,6 +1999,8 @@ Tausug, **aribái** ng mga Ilokano, at **lakambíni** ng mga sinaunang Tagalog.
 Maaari din itong tumukoy sa sinumang nilaláng, na nasa anyong babae, na
 nagsisilbing tagapangálaga ng mga likas na yaman at kaligiran. Tinatawag din
 silang **bathaluman**.
+
+DIWATÀ
 
 <div style="page-break-after: always;"></div>
 
@@ -1869,6 +2021,8 @@ ilang libong taon na ang nakararaan.
 
 _[Guhit ni Jap Mikel.]_
 
+DIWATÀ
+
 <div style="page-break-after: always;"></div>
 
 <!-- compressed-page: 78 | original-pages: 99 -->
@@ -1884,6 +2038,8 @@ Lalahon bílang diwatà ng bulkan at apoy dahil sa tinitirhan niya at sa ibinubu
 ng bulkan sa mga táong kaniyang pinaparusahan.
 
 _[Guhit ni Stephen Prestado.]_
+
+DIWATÀ
 
 <div style="page-break-after: always;"></div>
 
@@ -1903,6 +2059,8 @@ panandalian lámang ang kaparusahan at ang lahat ng gimukod ay mapupunta rin sa
 suroga.
 
 _[Guhit ni Kat Matias.]_
+
+DIWATÀ
 
 <div style="page-break-after: always;"></div>
 
@@ -1928,6 +2086,8 @@ nakikita niya ang anak sa lupa. Kapag nangyayari naman iyon, agad bumabalik si
 Takyayen sa langit (tingnan **Si Aponitolau**).
 
 _[Guhit ni Jap Mikel.]_
+
+DIWATÀ
 
 <div style="page-break-after: always;"></div>
 
@@ -1959,6 +2119,8 @@ _[Guhit ni Jap Mikel.]_
 
 _[Guhit ni Jap Mikel.]_
 
+DIWATÀ
+
 <div style="page-break-after: always;"></div>
 
 <!-- compressed-page: 82 | original-pages: 104 -->
@@ -1978,6 +2140,8 @@ Sa ibang salaysay ng mga Tagalog, itinuturing na isang bathalà si Idyanále.
 
 _[Guhit ni Jap Mikel.]_
 
+DIWATÀ
+
 <div style="page-break-after: always;"></div>
 
 <!-- compressed-page: 83 | original-pages: 105 -->
@@ -1989,6 +2153,8 @@ katutubong ritwal ng *tagulaylay* at sayaw, na isinasagawa ng mga baylan upang
 pakawalan ng halímaw na bakunáwa ang buwan, sa mga gabi ng lahò.
 
 _[Guhit ni Kat Matias.]_
+
+DIWATÀ
 
 <div style="page-break-after: always;"></div>
 
@@ -2005,6 +2171,8 @@ Katuwang ni Ikapáti si Lakambakod na siya namang bathalà ng mga pananim,
 tagapagtanggol ng mga tahanan, at tagapagpagaling sa mga maysakit.
 
 _[Guhit ni Jap Mikel.]_
+
+DIWATÀ
 
 <div style="page-break-after: always;"></div>
 
@@ -2035,6 +2203,8 @@ Panay. Dito namumuno ang mag-asawang Alunsína at Tungkúng Lángit.
 
 _[Guhit ni Kat Matias.]_
 
+DIWATÀ
+
 <div style="page-break-after: always;"></div>
 
 <!-- compressed-page: 86 | original-pages: 108 -->
@@ -2060,6 +2230,8 @@ ikaapat ay tirahan ng mga bayáni ng kanilang epiko na tinatawag na *Kulaman*.
 
 _[Guhit ni Conrad Raquel.]_
 
+DIWATÀ
+
 <div style="page-break-after: always;"></div>
 
 <!-- compressed-page: 87 | original-pages: 109 -->
@@ -2073,6 +2245,8 @@ ang pagtitina ng isang kulay sa piling bahagi ng tela.
 
 _[Guhit ni Kat Matias.]_
 
+DIWATÀ
+
 <div style="page-break-after: always;"></div>
 
 <!-- compressed-page: 88 | original-pages: 110 -->
@@ -2083,6 +2257,8 @@ _[Kulang ang scan: matinding dilim at bleed-through ang tumatakip sa halos
 buong pahina, kayâ hindi mapagkakatiwalaang mabása ang teksto.]_
 
 110
+
+DIWATÀ
 
 <div style="page-break-after: always;"></div>
 
@@ -2097,6 +2273,8 @@ pumapatnubay sa bawat gawain ng tao. Ang pantanging **Bathalà** ay tumutukoy sa
 dakilang lumikha at itinuturing na pinakamakapangyarihan ng mga sinaunang
 Tagalog, na sinasabing nakatira sa kalangitan. Tinatawag din siyang
 **Maykapál**.
+
+BATHALÀ
 
 <div style="page-break-after: always;"></div>
 
@@ -2137,6 +2315,8 @@ _[Guhit ni Mico Dimagiba.]_
 
 _[Guhit ni Mico Dimagiba.]_
 
+BATHALÀ
+
 <div style="page-break-after: always;"></div>
 
 <!-- compressed-page: 91 | original-pages: 114 -->
@@ -2159,6 +2339,8 @@ kanilang pananim, magpaalis ng masasamang espiritu, umiwas sa masasamang
 pangitain, at magpagaling sa maysakit.
 
 _[Guhit ni Kat Matias.]_
+
+BATHALÀ
 
 <div style="page-break-after: always;"></div>
 
@@ -2187,6 +2369,8 @@ ni Kanag ang mga bahagi ng katawan ng ama, ginamitan niya ito ng kapangyarihan
 upang muli itong mabuhay.
 
 _[Guhit ni Leo Kempis Ang.]_
+
+BATHALÀ
 
 <div style="page-break-after: always;"></div>
 
@@ -2218,6 +2402,8 @@ yungib ng hilagang Luzon, tulad ng Abra, Ilocos, at Cagayan.
 
 _[Guhit ni Mico Dimagiba.]_
 
+BATHALÀ
+
 <div style="page-break-after: always;"></div>
 
 <!-- compressed-page: 94 | original-pages: 117 -->
@@ -2228,6 +2414,8 @@ Si **Balangáw** ang bathalà ng bahaghari, na sinaunang sagisag ng pag-asa.
 Balangáw rin ang sinaunang tawag sa bahaghari ng mga Tagalog at Ilonggo.
 
 _[Guhit ni Sergio Bumatay III.]_
+
+BATHALÀ
 
 <div style="page-break-after: always;"></div>
 
@@ -2241,6 +2429,8 @@ ibinababa na nila ang lambat sa tubig para sa isang masaganang húli. Bílang
 pasasalamat, iniaalay nila ang kanilang unang húli kay Amánsináya.
 
 _[Guhit ni Kat Matias.]_
+
+BATHALÀ
 
 <div style="page-break-after: always;"></div>
 
@@ -2271,6 +2461,8 @@ gútom, kalungkutan, at kaguluhan sa mga ayaw mag-alay sa kaniya.
 
 _[Guhit ni Sergio Bumatay III.]_
 
+BATHALÀ
+
 <div style="page-break-after: always;"></div>
 
 <!-- compressed-page: 97 | original-pages: 120 -->
@@ -2296,6 +2488,8 @@ sa mga itinakda niyang alituntunin.
 
 _[Guhit ni JC Galag.]_
 
+BATHALÀ
+
 <div style="page-break-after: always;"></div>
 
 <!-- compressed-page: 98 | original-pages: 121 -->
@@ -2307,6 +2501,8 @@ araw. Sa kaniya nananawagan ang mga katutubo upang matapos na ang matinding
 pag-ulan. Sa kaniya rin nagdarasal ang mga Mangyan bago sila mangisda.
 
 _[Guhit ni Leo Kempis Ang.]_
+
+BATHALÀ
 
 <div style="page-break-after: always;"></div>
 
@@ -2337,6 +2533,8 @@ Sumpoy naman sa kasakítan.
 
 _[Guhit ni Jap Mikel.]_
 
+BATHALÀ
+
 <div style="page-break-after: always;"></div>
 
 <!-- compressed-page: 100 | original-pages: 123 -->
@@ -2352,6 +2550,8 @@ Kapag nakikita ng mga tao na umaagos ang apoy mula sa bunganga ng Mayon,
 nag-aalay sila kay Gugúrang.
 
 _[Guhit ni Sergio Bumatay III.]_
+
+BATHALÀ
 
 <div style="page-break-after: always;"></div>
 
@@ -2380,6 +2580,8 @@ tuwirang pakikipag-ugnayan sa mga tao.
 
 _[Guhit ni Jap Mikel.]_
 
+BATHALÀ
+
 <div style="page-break-after: always;"></div>
 
 <!-- compressed-page: 102 | original-pages: 125 -->
@@ -2390,6 +2592,8 @@ Sa mga Panayhon, si **Burólakaw** ang pinakamataas na bathalà na anyong agila 
 anyong kalabaw. Nakatira siya sa banal na bundok ng Madya-as.
 
 _[Guhit ni Karen Marcelo.]_
+
+BATHALÀ
 
 <div style="page-break-after: always;"></div>
 
@@ -2402,6 +2606,8 @@ pagkain sa mga nagugútom. Siya rin umano ang pinuno ng pamayanang matatagpuan
 malapit sa ilog ng Araut.
 
 _[Guhit ni Conrad Raquel.]_
+
+BATHALÀ
 
 <div style="page-break-after: always;"></div>
 
@@ -2429,6 +2635,8 @@ _[Guhit ni Kat Matias.]_
 
 _[Guhit ni Kat Matias.]_
 
+BATHALÀ
+
 <div style="page-break-after: always;"></div>
 
 <!-- compressed-page: 105 | original-pages: 128 -->
@@ -2447,3 +2655,5 @@ nang walang basbas ni Talagbúsaw. Sinasaniban nito ang mandirigmang ibig nitong
 tulungang makapaghiganti.
 
 _[Guhit ni Mico Dimagiba; larawan hindi isinama.]_
+
+BATHALÀ
