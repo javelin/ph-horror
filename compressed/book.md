@@ -133,7 +133,7 @@ nakatalon ito nang mataas at malayo.
 
 Nakatira ang tiyának sa ilalim ng lupa kung saan maraming nakabaóng hiyas.
 Pumupunta ito sa ibabaw ng lupa kapag tanghaling-tapat o palubog ang araw.
-Humuhuni na tulad ng isang ibon ang [kulang ang scan].
+Humuhuni na tulad ng isang ibon ang tiyának.
 
 ## Ano ang panlaban sa tiyának?
 
@@ -470,9 +470,9 @@ LAMÁNLUPÀ
 
 <!-- compressed-page: 16 | original-pages: 26 -->
 
-# Hindi mabása: pahina 26
+# Blangkong pahina 26
 
-[kulang ang scan: halos hindi mabasa ang buong pahina]
+[blangkong pahina]
 
 LAMÁNLUPÀ
 
@@ -826,9 +826,9 @@ HALÍMAW
 
 <!-- compressed-page: 32 | original-pages: 46 -->
 
-# Hindi mabása: pahina 46
+# Blangkong pahina 46
 
-[kulang ang scan: halos hindi mabasa ang buong pahina]
+[blangkong pahina]
 
 HALÍMAW
 
@@ -1112,12 +1112,9 @@ ASWÁNG
 
 <!-- compressed-page: 43 | original-pages: 60 -->
 
-# Hindi mabása: pahina 60
+# Blangkong pahina 60
 
-_[Kulang ang scan: halos ganap na washed out at hindi mapagkakatiwalaang
-mabása ang teksto ng pahinang ito.]_
-
-60
+[blangkong pahina]
 
 ASWÁNG
 
@@ -1686,12 +1683,9 @@ BAYÁNI
 
 <!-- compressed-page: 60 | original-pages: 82 -->
 
-# Hindi mabása: pahina 82
+# Blangkong pahina 82
 
-_[Kulang ang scan: halos ganap na washed out at hindi matukoy kung may
-mapagkakatiwalaang teksto ang pahinang ito.]_
-
-82
+[blangkong pahina]
 
 BAYÁNI
 
@@ -1976,12 +1970,9 @@ ANÍTO
 
 <!-- compressed-page: 75 | original-pages: 96 -->
 
-# Hindi mabása: pahina 96
+# Blangkong pahina 96
 
-_[Kulang ang scan: halos ganap na washed out at hindi mapagkakatiwalaang
-mabása ang teksto ng pahinang ito.]_
-
-96
+[blangkong pahina]
 
 ANÍTO
 
@@ -2251,12 +2242,9 @@ DIWATÀ
 
 <!-- compressed-page: 88 | original-pages: 110 -->
 
-# Hindi mabása: pahina 110
+# Blangkong pahina 110
 
-_[Kulang ang scan: matinding dilim at bleed-through ang tumatakip sa halos
-buong pahina, kayâ hindi mapagkakatiwalaang mabása ang teksto.]_
-
-110
+[blangkong pahina]
 
 DIWATÀ
 

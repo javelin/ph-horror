@@ -8,7 +8,11 @@ const compressedPagesDirectory = new URL("compressed/pages/", root);
 // These pages contain no recoverable heading or prose. Keeping each one as a
 // standalone compressed page prevents it from being mistaken for a continuation
 // of the preceding topic.
-const standaloneUnclearPages = new Set([16, 26, 46, 60, 82, 96, 110]);
+const standaloneUnclearPages = new Set([16]);
+
+// These manuscript-reviewed blank pages are retained as standalone compressed
+// pages so the original pagination map stays complete.
+const standaloneBlankPages = new Set([26, 46, 60, 82, 96, 110]);
 
 const sectionHeaders = new Set([
   "Mga Lamánlupà",
@@ -73,6 +77,10 @@ function splitAtTopicHeadings(text) {
 
 function titleForUnclearPage(page) {
   return `Hindi mabása: pahina ${page}`;
+}
+
+function titleForBlankPage(page) {
+  return `Blangkong pahina ${page}`;
 }
 
 function extractTrailingArtifacts(fragment) {
@@ -158,6 +166,17 @@ for (const sourceFile of sourceFiles) {
     continue;
   }
 
+  if (standaloneBlankPages.has(originalPage)) {
+    currentTopic = {
+      title: titleForBlankPage(originalPage),
+      originalPages: [originalPage],
+      fragments: [`# ${titleForBlankPage(originalPage)}\n\n${cleaned}`],
+      blank: true,
+    };
+    topics.push(currentTopic);
+    continue;
+  }
+
   if (!currentTopic) {
     throw new Error(`No topic available for continuation page ${originalPage}`);
   }
@@ -198,6 +217,9 @@ for (const [index, topic] of topics.entries()) {
   }
   if (topic.unclear) {
     notes.push("unreadable source placeholder");
+  }
+  if (topic.blank) {
+    notes.push("blank page placeholder");
   }
   if (topic.fragments.some((fragment) => fragment.includes("Pahinang larawan"))) {
     notes.push("includes illustration-only page placeholder");

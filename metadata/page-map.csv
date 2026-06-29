@@ -12,7 +12,7 @@ even-005,5,publication,front matter,publication and copyright information,checke
 even-015,15,128,bathala,Sina Talagbúsaw at Mandarangan,checked,even-page body runs in descending printed-page order
 even-016,16,126,bathala,Sina Manáma at Ogássi,checked,
 odd-006,6,9,lamanlupa,Mga Lamánlupà section introduction,checked,
-even-075,75,10,lamanlupa,Ang Tiyának,blocked,lower text is cut off in source scan; see docs/scan-issues.md
+even-075,75,10,lamanlupa,Ang Tiyának,checked,missing ending supplied from manuscript review; see docs/scan-issues.md
 odd-007,7,11,lamanlupa,Ang Tiyának continuation,checked,
 even-074,74,12,lamanlupa,Ang Alán,checked,
 odd-008,8,13,lamanlupa,Ang Ambáboy,checked,
@@ -29,7 +29,7 @@ odd-013,13,23,lamanlupa,Si Magwáyen,checked,
 odd-014,14,23,lamanlupa,Si Magwáyen duplicate,duplicate,duplicate of odd-013
 even-068,68,24,lamanlupa,Ang Búsaw,checked,
 odd-015,15,25,lamanlupa,illustration-only page,checked,no book text
-even-067,67,26,lamanlupa,washed-out page,blocked,source is almost entirely illegible; see docs/scan-issues.md
+even-067,67,26,lamanlupa,blank page,checked,manuscript review confirms blank page preceding Mga Halímaw section title on page 27
 odd-016,16,27,halimaw,Mga Halímaw section introduction,checked,
 even-066,66,28,halimaw,Ang Berkákan,checked,
 odd-017,17,29,halimaw,Ang Ikugan,checked,
@@ -52,7 +52,7 @@ even-058,58,42,halimaw,Ang Minokawa,checked,
 odd-026,26,43,halimaw,Ang Nága,checked,
 even-057,57,44,halimaw,illustration-only page,checked,no book text
 odd-027,27,45,halimaw,Ang Siyókoy,checked,
-even-056,56,46,halimaw,washed-out page,blocked,source is almost entirely illegible; see docs/scan-issues.md
+even-056,56,46,halimaw,blank page,checked,manuscript review confirms blank page preceding Mga Aswáng section title on page 47
 odd-028,28,47,aswang,Mga Aswáng section introduction,checked,
 even-055,55,48,aswang,Ang Manananggál,checked,
 odd-029,29,49,aswang,Ang Manananggál continuation,checked,
@@ -66,7 +66,7 @@ even-051,51,56,aswang,Ang Kiwig,checked,
 odd-033,33,57,aswang,Ang Kiwig continuation,checked,
 even-050,50,58,aswang,Ang Mambabárang,checked,
 odd-034,34,59,aswang,Ang Mambabárang continuation,checked,
-even-049,49,60,aswang,washed-out page,blocked,source is almost entirely illegible; see docs/scan-issues.md
+even-049,49,60,aswang,blank page,checked,manuscript review confirms blank page preceding Mga Bayáni section title on page 61
 odd-035,35,61,bayani,Mga Bayáni section introduction,checked,
 even-048,48,62,bayani,Sina Humadapnon at Lábaw Donggón,checked,
 odd-036,36,63,bayani,Sina Humadapnon at Lábaw Donggón continuation,checked,
@@ -90,7 +90,7 @@ even-040,40,78,bayani,Si Abunnawas,checked,
 odd-046,46,79,bayani,Si Juan Púsong,checked,
 even-039,39,80,bayani,Si Taake,checked,
 odd-047,47,81,bayani,Si Taake continuation,checked,
-even-038,38,82,bayani,washed-out page,blocked,source is almost entirely illegible; see docs/scan-issues.md
+even-038,38,82,bayani,blank page,checked,manuscript review confirms blank page preceding Mga Aníto section title on page 83
 odd-048,48,83,anito,Mga Aníto section introduction,checked,
 even-037,37,84,anito,Ang Lítaw,checked,
 odd-049,49,85,anito,Ang Adárna,checked,
@@ -109,7 +109,7 @@ even-032,32,94,anito,Ang Limókon at Ang Kúra Sambaláni,checked,
 odd-057,57,95,anito,Ang Tahamáling,checked,
 odd-058,58,95,anito,Ang Tahamáling duplicate,duplicate,duplicate of odd-057
 odd-059,59,95,anito,Ang Tahamáling duplicate,duplicate,duplicate of odd-057
-even-031,31,96,anito,washed-out page,blocked,source is almost entirely illegible; see docs/scan-issues.md
+even-031,31,96,anito,blank page,checked,manuscript review confirms blank page preceding Mga Diwatà section title on page 97
 odd-060,60,97,diwata,Mga Diwatà section introduction,checked,
 even-030,30,98,diwata,Si Bángan,checked,
 odd-061,61,99,diwata,Si Lalahon,checked,
@@ -126,7 +126,7 @@ even-026,26,106,diwata,Si Ikapáti,checked,
 odd-068,68,107,diwata,Si Alunsína,checked,
 even-025,25,108,diwata,Si Ipememehandi,checked,
 odd-069,69,109,diwata,Si Baít Pándi,checked,
-even-024,24,110,diwata,dark bleed-through page,blocked,source is almost entirely illegible; see docs/scan-issues.md
+even-024,24,110,diwata,blank page,checked,manuscript review confirms blank page preceding Mga Bathalà section title on page 111
 odd-070,70,111,bathala,Mga Bathalà section introduction,checked,
 even-023,23,112,bathala,Sina Kabunyían at Lumáwig,checked,
 odd-071,71,113,bathala,Sina Kabunyían at Lumáwig continuation,checked,
