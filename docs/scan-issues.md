@@ -16,14 +16,22 @@ means that the scan has not yet been mapped confidently.
 
 | Source scan | Printed page | Severity | Problem | Transcription impact | Resolution |
 | --- | ---: | --- | --- | --- | --- |
-| `even-075` | 10 | High | The bottom of the main paragraph is cut off. The sentence beginning “Humuhuni na tulad ng isang ibon ang…” does not continue in the scan. | Missing text at the end of the main entry for **Ang Tiyának**. | Compare with the physical page and supply the missing words. |
 | `even-072` | 16 | Critical | Almost the entire page is washed out and illegible. | No trustworthy transcription is currently possible. | Rescan or photograph printed page 16. |
-| `even-067` | 26 | Critical | Almost the entire page is washed out and illegible. | No trustworthy transcription is currently possible. | Rescan or photograph printed page 26. |
-| `even-056` | 46 | Critical | Almost the entire page is washed out and illegible. | No trustworthy transcription is currently possible. | Rescan or photograph printed page 46. |
-| `even-049` | 60 | Critical | Almost the entire page is washed out and illegible. | No trustworthy transcription is currently possible. | Rescan or photograph printed page 60. |
-| `even-038` | 82 | Critical | Almost the entire page is washed out and illegible. | No trustworthy transcription is currently possible. | Rescan or photograph printed page 82. |
-| `even-031` | 96 | Critical | Almost the entire page is washed out and illegible. | No trustworthy transcription is currently possible. | Rescan or photograph printed page 96. |
-| `even-024` | 110 | Critical | Extreme darkness and bleed-through obscure nearly the entire page. | No trustworthy transcription is currently possible. | Rescan or photograph printed page 110. |
+
+## Manuscript-reviewed resolutions
+
+These pages were reviewed against the physical manuscript and are no longer
+treated as missing text.
+
+| Source scan | Printed page | Review result | Transcription action |
+| --- | ---: | --- | --- |
+| `even-075` | 10 | The cut-off sentence ends: “Humuhuni na tulad ng isang ibon ang tiyanak.” | Replaced `[kulang ang scan]` with the verified wording. |
+| `even-067` | 26 | Blank page before the **Mga Halímaw** title page on page 27. | Recorded as `[blangkong pahina]`. |
+| `even-056` | 46 | Blank page before the **Mga Aswáng** title page on page 47. | Recorded as `[blangkong pahina]`. |
+| `even-049` | 60 | Blank page before the **Mga Bayáni** title page on page 61. | Recorded as `[blangkong pahina]`. |
+| `even-038` | 82 | Blank page before the **Mga Aníto** title page on page 83. | Recorded as `[blangkong pahina]`. |
+| `even-031` | 96 | Blank page before the **Mga Diwatà** title page on page 97. | Recorded as `[blangkong pahina]`. |
+| `even-024` | 110 | Blank page before the **Mga Bathalà** title page on page 111. | Recorded as `[blangkong pahina]`. |
 
 ## Suspected poor or unusable captures
 
