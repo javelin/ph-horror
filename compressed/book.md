@@ -152,8 +152,6 @@ mga Bagobo ang tiyának.
 
 _[Guhit ni Stephen Prestado.]_
 
-_[Guhit ni Stephen Prestado.]_
-
 LAMÁNLUPÀ
 
 <div style="page-break-after: always;"></div>
@@ -249,17 +247,7 @@ LAMÁNLUPÀ
 
 <div style="page-break-after: always;"></div>
 
-<!-- compressed-page: 7 | original-pages: 16 -->
-
-# Hindi mabása: pahina 16
-
-[kulang ang scan: halos hindi mabasa ang buong pahina]
-
-LAMÁNLUPÀ
-
-<div style="page-break-after: always;"></div>
-
-<!-- compressed-page: 8 | original-pages: 17 -->
+<!-- compressed-page: 7 | original-pages: 16;17 -->
 
 # Ang Batíbat
 
@@ -283,13 +271,20 @@ Tinatawag ding **bangúngot** ng mga Tagalog ang batíbat.
 Sa Ilokos, ang ibig sabihin ng *naluganan* ay táong nasapian ng kaluluwa ng
 namayapang kamag-anak o ng demonyo.
 
+## Paano makaliligtas sa pag-atake ng batíbat?
+
+Upang makaligtas sa pag-atake ng batíbat, kinakailangang kagatin ng biktima ang
+kaniyang hinlalaki o igalaw ang mga daliri sa paa. Kapag nakaligtas ang biktima
+sa batíbat, magiging malusog siya at magkakaroon ng kapangyarihang makakita ng
+mga lamánlupà at iba pang kagila-gilalas na nilaláng.
+
 _[Guhit ni Kat Matias.]_
 
 LAMÁNLUPÀ
 
 <div style="page-break-after: always;"></div>
 
-<!-- compressed-page: 9 | original-pages: 18 -->
+<!-- compressed-page: 8 | original-pages: 18 -->
 
 # Ang Mántiw
 
@@ -310,7 +305,7 @@ LAMÁNLUPÀ
 
 <div style="page-break-after: always;"></div>
 
-<!-- compressed-page: 10 | original-pages: 19 -->
+<!-- compressed-page: 9 | original-pages: 19 -->
 
 # Ang Nunò sa Punsó
 
@@ -335,7 +330,7 @@ LAMÁNLUPÀ
 
 <div style="page-break-after: always;"></div>
 
-<!-- compressed-page: 11 | original-pages: 20 -->
+<!-- compressed-page: 10 | original-pages: 20 -->
 
 # Ang Daligmatá
 
@@ -354,7 +349,7 @@ LAMÁNLUPÀ
 
 <div style="page-break-after: always;"></div>
 
-<!-- compressed-page: 12 | original-pages: 21 -->
+<!-- compressed-page: 11 | original-pages: 21 -->
 
 # Ang Tamáwo
 
@@ -388,7 +383,7 @@ LAMÁNLUPÀ
 
 <div style="page-break-after: always;"></div>
 
-<!-- compressed-page: 13 | original-pages: 22 -->
+<!-- compressed-page: 12 | original-pages: 22 -->
 
 # Ang Kokok
 
@@ -405,7 +400,7 @@ LAMÁNLUPÀ
 
 <div style="page-break-after: always;"></div>
 
-<!-- compressed-page: 14 | original-pages: 23 -->
+<!-- compressed-page: 13 | original-pages: 23 -->
 
 # Si Magwáyen
 
@@ -426,7 +421,7 @@ LAMÁNLUPÀ
 
 <div style="page-break-after: always;"></div>
 
-<!-- compressed-page: 15 | original-pages: 24;25 -->
+<!-- compressed-page: 14 | original-pages: 24;25 -->
 
 # Ang Búsaw
 
@@ -468,7 +463,7 @@ LAMÁNLUPÀ
 
 <div style="page-break-after: always;"></div>
 
-<!-- compressed-page: 16 | original-pages: 26 -->
+<!-- compressed-page: 15 | original-pages: 26 -->
 
 # Blangkong pahina 26
 
@@ -478,7 +473,7 @@ LAMÁNLUPÀ
 
 <div style="page-break-after: always;"></div>
 
-<!-- compressed-page: 17 | original-pages: 27 -->
+<!-- compressed-page: 16 | original-pages: 27 -->
 
 # Mga Halímaw
 
@@ -494,7 +489,7 @@ HALÍMAW
 
 <div style="page-break-after: always;"></div>
 
-<!-- compressed-page: 18 | original-pages: 28 -->
+<!-- compressed-page: 17 | original-pages: 28 -->
 
 # Ang Berkákan
 
@@ -513,7 +508,7 @@ HALÍMAW
 
 <div style="page-break-after: always;"></div>
 
-<!-- compressed-page: 19 | original-pages: 29 -->
+<!-- compressed-page: 18 | original-pages: 29 -->
 
 # Ang Ikugan
 
@@ -530,7 +525,7 @@ HALÍMAW
 
 <div style="page-break-after: always;"></div>
 
-<!-- compressed-page: 20 | original-pages: 30;31 -->
+<!-- compressed-page: 19 | original-pages: 30;31 -->
 
 # Ang Tikbálang
 
@@ -562,13 +557,11 @@ ang sikat ng araw.
 
 _[Guhit ni Leo Kempis Ang.]_
 
-_[Guhit ni Leo Kempis Ang.]_
-
 HALÍMAW
 
 <div style="page-break-after: always;"></div>
 
-<!-- compressed-page: 21 | original-pages: 32;33 -->
+<!-- compressed-page: 20 | original-pages: 32;33 -->
 
 # Sina Tandáyag at Rabut
 
@@ -586,13 +579,11 @@ nito ang malalim na pagtulog ng halímaw, at sakâ inatake (tingnan Si Bántong)
 
 _[Guhit nina Mico Dimagiba at Borg Sinaban.]_
 
-_[Guhit nina Mico Dimagiba at Borg Sinaban.]_
-
 HALÍMAW
 
 <div style="page-break-after: always;"></div>
 
-<!-- compressed-page: 22 | original-pages: 34 -->
+<!-- compressed-page: 21 | original-pages: 34 -->
 
 # Si Oriól
 
@@ -614,7 +605,7 @@ HALÍMAW
 
 <div style="page-break-after: always;"></div>
 
-<!-- compressed-page: 23 | original-pages: 35 -->
+<!-- compressed-page: 22 | original-pages: 35 -->
 
 # Ang Onglô
 
@@ -630,7 +621,7 @@ HALÍMAW
 
 <div style="page-break-after: always;"></div>
 
-<!-- compressed-page: 24 | original-pages: 36;37 -->
+<!-- compressed-page: 23 | original-pages: 36;37 -->
 
 # Ang Sigbín
 
@@ -669,7 +660,7 @@ HALÍMAW
 
 <div style="page-break-after: always;"></div>
 
-<!-- compressed-page: 25 | original-pages: 38 -->
+<!-- compressed-page: 24 | original-pages: 38 -->
 
 # Ang Bakunáwa
 
@@ -696,7 +687,7 @@ HALÍMAW
 
 <div style="page-break-after: always;"></div>
 
-<!-- compressed-page: 26 | original-pages: 39 -->
+<!-- compressed-page: 25 | original-pages: 39 -->
 
 # Si Bungisngís
 
@@ -718,7 +709,7 @@ HALÍMAW
 
 <div style="page-break-after: always;"></div>
 
-<!-- compressed-page: 27 | original-pages: 40 -->
+<!-- compressed-page: 26 | original-pages: 40 -->
 
 # Ang Garúda
 
@@ -745,7 +736,7 @@ HALÍMAW
 
 <div style="page-break-after: always;"></div>
 
-<!-- compressed-page: 28 | original-pages: 41 -->
+<!-- compressed-page: 27 | original-pages: 41 -->
 
 # Ang Lumbóng
 
@@ -766,7 +757,7 @@ HALÍMAW
 
 <div style="page-break-after: always;"></div>
 
-<!-- compressed-page: 29 | original-pages: 42 -->
+<!-- compressed-page: 28 | original-pages: 42 -->
 
 # Ang Minokawa
 
@@ -789,7 +780,7 @@ HALÍMAW
 
 <div style="page-break-after: always;"></div>
 
-<!-- compressed-page: 30 | original-pages: 43;44 -->
+<!-- compressed-page: 29 | original-pages: 43;44 -->
 
 # Ang Nága
 
@@ -808,7 +799,7 @@ HALÍMAW
 
 <div style="page-break-after: always;"></div>
 
-<!-- compressed-page: 31 | original-pages: 45 -->
+<!-- compressed-page: 30 | original-pages: 45 -->
 
 # Ang Siyókoy
 
@@ -824,7 +815,7 @@ HALÍMAW
 
 <div style="page-break-after: always;"></div>
 
-<!-- compressed-page: 32 | original-pages: 46 -->
+<!-- compressed-page: 31 | original-pages: 46 -->
 
 # Blangkong pahina 46
 
@@ -834,7 +825,7 @@ HALÍMAW
 
 <div style="page-break-after: always;"></div>
 
-<!-- compressed-page: 33 | original-pages: 47 -->
+<!-- compressed-page: 32 | original-pages: 47 -->
 
 # Mga Aswáng
 
@@ -849,7 +840,7 @@ ASWÁNG
 
 <div style="page-break-after: always;"></div>
 
-<!-- compressed-page: 34 | original-pages: 48;49 -->
+<!-- compressed-page: 33 | original-pages: 48;49 -->
 
 # Ang Manananggál
 
@@ -897,7 +888,7 @@ ASWÁNG
 
 <div style="page-break-after: always;"></div>
 
-<!-- compressed-page: 35 | original-pages: 50 -->
+<!-- compressed-page: 34 | original-pages: 50 -->
 
 # Ang Dánag
 
@@ -916,7 +907,7 @@ ASWÁNG
 
 <div style="page-break-after: always;"></div>
 
-<!-- compressed-page: 36 | original-pages: 51 -->
+<!-- compressed-page: 35 | original-pages: 51 -->
 
 # Ang Huklúban
 
@@ -933,7 +924,7 @@ ASWÁNG
 
 <div style="page-break-after: always;"></div>
 
-<!-- compressed-page: 37 | original-pages: 52 -->
+<!-- compressed-page: 36 | original-pages: 52 -->
 
 # Ang Mandurugô
 
@@ -959,7 +950,7 @@ ASWÁNG
 
 <div style="page-break-after: always;"></div>
 
-<!-- compressed-page: 38 | original-pages: 53 -->
+<!-- compressed-page: 37 | original-pages: 53 -->
 
 # Ang Yanggáw
 
@@ -973,7 +964,7 @@ ASWÁNG
 
 <div style="page-break-after: always;"></div>
 
-<!-- compressed-page: 39 | original-pages: 54 -->
+<!-- compressed-page: 38 | original-pages: 54 -->
 
 # Ang Amalanhig
 
@@ -996,7 +987,7 @@ ASWÁNG
 
 <div style="page-break-after: always;"></div>
 
-<!-- compressed-page: 40 | original-pages: 55 -->
+<!-- compressed-page: 39 | original-pages: 55 -->
 
 # Ang Mangkukúlam
 
@@ -1040,7 +1031,7 @@ ASWÁNG
 
 <div style="page-break-after: always;"></div>
 
-<!-- compressed-page: 41 | original-pages: 56;57 -->
+<!-- compressed-page: 40 | original-pages: 56;57 -->
 
 # Ang Kiwig
 
@@ -1068,13 +1059,11 @@ Tinatawag ding **malakat** sa Sebwano at **aswáng na lakaw** sa Bikol ang kiwig
 
 _[Guhit ni Mico Dimagiba.]_
 
-_[Guhit ni Mico Dimagiba.]_
-
 ASWÁNG
 
 <div style="page-break-after: always;"></div>
 
-<!-- compressed-page: 42 | original-pages: 58;59 -->
+<!-- compressed-page: 41 | original-pages: 58;59 -->
 
 # Ang Mambabárang
 
@@ -1104,13 +1093,11 @@ mga alagang kulisap.
 
 _[Guhit ni Stephen Prestado.]_
 
-_[Guhit ni Stephen Prestado.]_
-
 ASWÁNG
 
 <div style="page-break-after: always;"></div>
 
-<!-- compressed-page: 43 | original-pages: 60 -->
+<!-- compressed-page: 42 | original-pages: 60 -->
 
 # Blangkong pahina 60
 
@@ -1120,7 +1107,7 @@ ASWÁNG
 
 <div style="page-break-after: always;"></div>
 
-<!-- compressed-page: 44 | original-pages: 61 -->
+<!-- compressed-page: 43 | original-pages: 61 -->
 
 # Mga Bayáni
 
@@ -1135,7 +1122,7 @@ BAYÁNI
 
 <div style="page-break-after: always;"></div>
 
-<!-- compressed-page: 45 | original-pages: 62;63 -->
+<!-- compressed-page: 44 | original-pages: 62;63 -->
 
 # Sina Humadapnon at Lábaw Donggón
 
@@ -1191,13 +1178,11 @@ mapalawak ang kaniyang lahi at matiwasay na mapag-isa ang tatlong mundo.
 
 _[Guhit ni JC Galag.]_
 
-_[Guhit ni JC Galag.]_
-
 BAYÁNI
 
 <div style="page-break-after: always;"></div>
 
-<!-- compressed-page: 46 | original-pages: 64;65 -->
+<!-- compressed-page: 45 | original-pages: 64;65 -->
 
 # Si Lam-ang
 
@@ -1248,13 +1233,11 @@ at namuhay nang matiwasay kasáma si Ines Kannoyan (tingnan **Ang Berkákan**).
 
 _[Guhit nina Mico Dimagiba at Borg Sinaban.]_
 
-_[Guhit nina Mico Dimagiba at Borg Sinaban.]_
-
 BAYÁNI
 
 <div style="page-break-after: always;"></div>
 
-<!-- compressed-page: 47 | original-pages: 66;67 -->
+<!-- compressed-page: 46 | original-pages: 66;67 -->
 
 # Indarapátra at Sulaymán
 
@@ -1278,13 +1261,11 @@ mag-isa sa kalaban.
 
 _[Guhit ni Jap Mikel.]_
 
-_[Guhit ni Jap Mikel.]_
-
 BAYÁNI
 
 <div style="page-break-after: always;"></div>
 
-<!-- compressed-page: 48 | original-pages: 68;69 -->
+<!-- compressed-page: 47 | original-pages: 68;69 -->
 
 # Sina Baltóg, Handiong, at Bántong
 
@@ -1316,13 +1297,11 @@ Inabangan ni Bántong ang malalim na pagtulog ni Rabut at sakâ niya ito pinasla
 
 _[Guhit ni Stephen Prestado.]_
 
-_[Guhit ni Stephen Prestado.]_
-
 BAYÁNI
 
 <div style="page-break-after: always;"></div>
 
-<!-- compressed-page: 49 | original-pages: 70 -->
+<!-- compressed-page: 48 | original-pages: 70 -->
 
 # Si Aliguyon
 
@@ -1360,7 +1339,7 @@ BAYÁNI
 
 <div style="page-break-after: always;"></div>
 
-<!-- compressed-page: 50 | original-pages: 71 -->
+<!-- compressed-page: 49 | original-pages: 71 -->
 
 # Si Taguwasi
 
@@ -1388,7 +1367,7 @@ BAYÁNI
 
 <div style="page-break-after: always;"></div>
 
-<!-- compressed-page: 51 | original-pages: 72 -->
+<!-- compressed-page: 50 | original-pages: 72 -->
 
 # Si Bantugën
 
@@ -1422,7 +1401,7 @@ BAYÁNI
 
 <div style="page-break-after: always;"></div>
 
-<!-- compressed-page: 52 | original-pages: 73 -->
+<!-- compressed-page: 51 | original-pages: 73 -->
 
 # Si Tud Bulul
 
@@ -1458,7 +1437,7 @@ BAYÁNI
 
 <div style="page-break-after: always;"></div>
 
-<!-- compressed-page: 53 | original-pages: 74 -->
+<!-- compressed-page: 52 | original-pages: 74 -->
 
 # Si Agyu
 
@@ -1492,7 +1471,7 @@ BAYÁNI
 
 <div style="page-break-after: always;"></div>
 
-<!-- compressed-page: 54 | original-pages: 75 -->
+<!-- compressed-page: 53 | original-pages: 75 -->
 
 # Si Banna
 
@@ -1529,7 +1508,7 @@ BAYÁNI
 
 <div style="page-break-after: always;"></div>
 
-<!-- compressed-page: 55 | original-pages: 76 -->
+<!-- compressed-page: 54 | original-pages: 76 -->
 
 # Si Laón
 
@@ -1552,7 +1531,7 @@ BAYÁNI
 
 <div style="page-break-after: always;"></div>
 
-<!-- compressed-page: 56 | original-pages: 77 -->
+<!-- compressed-page: 55 | original-pages: 77 -->
 
 # Si Kudaman
 
@@ -1587,7 +1566,7 @@ BAYÁNI
 
 <div style="page-break-after: always;"></div>
 
-<!-- compressed-page: 57 | original-pages: 78 -->
+<!-- compressed-page: 56 | original-pages: 78 -->
 
 # Si Abunnawas
 
@@ -1608,7 +1587,7 @@ BAYÁNI
 
 <div style="page-break-after: always;"></div>
 
-<!-- compressed-page: 58 | original-pages: 79 -->
+<!-- compressed-page: 57 | original-pages: 79 -->
 
 # Si Juan Púsong
 
@@ -1639,7 +1618,7 @@ BAYÁNI
 
 <div style="page-break-after: always;"></div>
 
-<!-- compressed-page: 59 | original-pages: 80;81 -->
+<!-- compressed-page: 58 | original-pages: 80;81 -->
 
 # Si Taake
 
@@ -1675,13 +1654,11 @@ malawakang kamatayan at pagkawasak. Nang matapos ang digmaan, nagsagawa ng
 
 _[Guhit ni Jap Mikel.]_
 
-_[Guhit ni Jap Mikel.]_
-
 BAYÁNI
 
 <div style="page-break-after: always;"></div>
 
-<!-- compressed-page: 60 | original-pages: 82 -->
+<!-- compressed-page: 59 | original-pages: 82 -->
 
 # Blangkong pahina 82
 
@@ -1691,7 +1668,7 @@ BAYÁNI
 
 <div style="page-break-after: always;"></div>
 
-<!-- compressed-page: 61 | original-pages: 83 -->
+<!-- compressed-page: 60 | original-pages: 83 -->
 
 # Mga Aníto
 
@@ -1710,7 +1687,7 @@ ANÍTO
 
 <div style="page-break-after: always;"></div>
 
-<!-- compressed-page: 62 | original-pages: 84 -->
+<!-- compressed-page: 61 | original-pages: 84 -->
 
 # Ang Lítaw
 
@@ -1723,7 +1700,7 @@ ANÍTO
 
 <div style="page-break-after: always;"></div>
 
-<!-- compressed-page: 63 | original-pages: 85 -->
+<!-- compressed-page: 62 | original-pages: 85 -->
 
 # Ang Adárna
 
@@ -1755,7 +1732,7 @@ ANÍTO
 
 <div style="page-break-after: always;"></div>
 
-<!-- compressed-page: 64 | original-pages: 86 -->
+<!-- compressed-page: 63 | original-pages: 86 -->
 
 # Ang Amíhan
 
@@ -1775,7 +1752,7 @@ ANÍTO
 
 <div style="page-break-after: always;"></div>
 
-<!-- compressed-page: 65 | original-pages: 87 -->
+<!-- compressed-page: 64 | original-pages: 87 -->
 
 # Ang Makabóteng
 
@@ -1793,7 +1770,7 @@ ANÍTO
 
 <div style="page-break-after: always;"></div>
 
-<!-- compressed-page: 66 | original-pages: 88 -->
+<!-- compressed-page: 65 | original-pages: 88 -->
 
 # Ang Balatití
 
@@ -1814,7 +1791,7 @@ ANÍTO
 
 <div style="page-break-after: always;"></div>
 
-<!-- compressed-page: 67 | original-pages: 89 -->
+<!-- compressed-page: 66 | original-pages: 89 -->
 
 # Ang Pámahándi
 
@@ -1837,7 +1814,7 @@ ANÍTO
 
 <div style="page-break-after: always;"></div>
 
-<!-- compressed-page: 68 | original-pages: 90 -->
+<!-- compressed-page: 67 | original-pages: 90 -->
 
 # Ang Karibángsa
 
@@ -1850,7 +1827,7 @@ ANÍTO
 
 <div style="page-break-after: always;"></div>
 
-<!-- compressed-page: 69 | original-pages: 91 -->
+<!-- compressed-page: 68 | original-pages: 91 -->
 
 # Ang Tónong
 
@@ -1875,7 +1852,7 @@ ANÍTO
 
 <div style="page-break-after: always;"></div>
 
-<!-- compressed-page: 70 | original-pages: 92 -->
+<!-- compressed-page: 69 | original-pages: 92 -->
 
 # Ang Silít
 
@@ -1895,7 +1872,7 @@ ANÍTO
 
 <div style="page-break-after: always;"></div>
 
-<!-- compressed-page: 71 | original-pages: 93 -->
+<!-- compressed-page: 70 | original-pages: 93 -->
 
 # Ang Almúgan
 
@@ -1923,7 +1900,7 @@ ANÍTO
 
 <div style="page-break-after: always;"></div>
 
-<!-- compressed-page: 72 | original-pages: 94 -->
+<!-- compressed-page: 71 | original-pages: 94 -->
 
 # Ang Limókon
 
@@ -1942,7 +1919,7 @@ ANÍTO
 
 <div style="page-break-after: always;"></div>
 
-<!-- compressed-page: 73 | original-pages: 94 -->
+<!-- compressed-page: 72 | original-pages: 94 -->
 
 # Ang Kúra Sambaláni
 
@@ -1955,7 +1932,7 @@ ANÍTO
 
 <div style="page-break-after: always;"></div>
 
-<!-- compressed-page: 74 | original-pages: 95 -->
+<!-- compressed-page: 73 | original-pages: 95 -->
 
 # Ang Tahamáling
 
@@ -1968,7 +1945,7 @@ ANÍTO
 
 <div style="page-break-after: always;"></div>
 
-<!-- compressed-page: 75 | original-pages: 96 -->
+<!-- compressed-page: 74 | original-pages: 96 -->
 
 # Blangkong pahina 96
 
@@ -1978,7 +1955,7 @@ ANÍTO
 
 <div style="page-break-after: always;"></div>
 
-<!-- compressed-page: 76 | original-pages: 97 -->
+<!-- compressed-page: 75 | original-pages: 97 -->
 
 # Mga Diwatà
 
@@ -1995,7 +1972,7 @@ DIWATÀ
 
 <div style="page-break-after: always;"></div>
 
-<!-- compressed-page: 77 | original-pages: 98 -->
+<!-- compressed-page: 76 | original-pages: 98 -->
 
 # Si Bángan
 
@@ -2016,7 +1993,7 @@ DIWATÀ
 
 <div style="page-break-after: always;"></div>
 
-<!-- compressed-page: 78 | original-pages: 99 -->
+<!-- compressed-page: 77 | original-pages: 99 -->
 
 # Si Lalahon
 
@@ -2034,7 +2011,7 @@ DIWATÀ
 
 <div style="page-break-after: always;"></div>
 
-<!-- compressed-page: 79 | original-pages: 100 -->
+<!-- compressed-page: 78 | original-pages: 100 -->
 
 # Si Ibu
 
@@ -2055,7 +2032,7 @@ DIWATÀ
 
 <div style="page-break-after: always;"></div>
 
-<!-- compressed-page: 80 | original-pages: 101 -->
+<!-- compressed-page: 79 | original-pages: 101 -->
 
 # Si Gaygayóma
 
@@ -2082,7 +2059,7 @@ DIWATÀ
 
 <div style="page-break-after: always;"></div>
 
-<!-- compressed-page: 81 | original-pages: 102;103 -->
+<!-- compressed-page: 80 | original-pages: 102;103 -->
 
 # Sina Maria Cacao, Maria Makiling, at Maria Sinukuan
 
@@ -2108,13 +2085,11 @@ niya natapos ito sa tamang oras kayâ nanatiling dalaga si Maria Sinukuan.
 
 _[Guhit ni Jap Mikel.]_
 
-_[Guhit ni Jap Mikel.]_
-
 DIWATÀ
 
 <div style="page-break-after: always;"></div>
 
-<!-- compressed-page: 82 | original-pages: 104 -->
+<!-- compressed-page: 81 | original-pages: 104 -->
 
 # Si Idyanále
 
@@ -2135,7 +2110,7 @@ DIWATÀ
 
 <div style="page-break-after: always;"></div>
 
-<!-- compressed-page: 83 | original-pages: 105 -->
+<!-- compressed-page: 82 | original-pages: 105 -->
 
 # Si Halíya
 
@@ -2149,7 +2124,7 @@ DIWATÀ
 
 <div style="page-break-after: always;"></div>
 
-<!-- compressed-page: 84 | original-pages: 106 -->
+<!-- compressed-page: 83 | original-pages: 106 -->
 
 # Si Ikapáti
 
@@ -2167,7 +2142,7 @@ DIWATÀ
 
 <div style="page-break-after: always;"></div>
 
-<!-- compressed-page: 85 | original-pages: 107 -->
+<!-- compressed-page: 84 | original-pages: 107 -->
 
 # Si Alunsína
 
@@ -2198,7 +2173,7 @@ DIWATÀ
 
 <div style="page-break-after: always;"></div>
 
-<!-- compressed-page: 86 | original-pages: 108 -->
+<!-- compressed-page: 85 | original-pages: 108 -->
 
 # Si Ipememehandi
 
@@ -2225,7 +2200,7 @@ DIWATÀ
 
 <div style="page-break-after: always;"></div>
 
-<!-- compressed-page: 87 | original-pages: 109 -->
+<!-- compressed-page: 86 | original-pages: 109 -->
 
 # Si Baít Pándi
 
@@ -2240,7 +2215,7 @@ DIWATÀ
 
 <div style="page-break-after: always;"></div>
 
-<!-- compressed-page: 88 | original-pages: 110 -->
+<!-- compressed-page: 87 | original-pages: 110 -->
 
 # Blangkong pahina 110
 
@@ -2250,7 +2225,7 @@ DIWATÀ
 
 <div style="page-break-after: always;"></div>
 
-<!-- compressed-page: 89 | original-pages: 111 -->
+<!-- compressed-page: 88 | original-pages: 111 -->
 
 # Mga Bathalà
 
@@ -2266,7 +2241,7 @@ BATHALÀ
 
 <div style="page-break-after: always;"></div>
 
-<!-- compressed-page: 90 | original-pages: 112;113 -->
+<!-- compressed-page: 89 | original-pages: 112;113 -->
 
 # Sina Kabunyían at Lumáwig
 
@@ -2301,13 +2276,11 @@ sang Kabunyanen*” na nangangahulugang “salamat Kabunyían.”
 
 _[Guhit ni Mico Dimagiba.]_
 
-_[Guhit ni Mico Dimagiba.]_
-
 BATHALÀ
 
 <div style="page-break-after: always;"></div>
 
-<!-- compressed-page: 91 | original-pages: 114 -->
+<!-- compressed-page: 90 | original-pages: 114 -->
 
 # Si Kadaklán
 
@@ -2332,7 +2305,7 @@ BATHALÀ
 
 <div style="page-break-after: always;"></div>
 
-<!-- compressed-page: 92 | original-pages: 115 -->
+<!-- compressed-page: 91 | original-pages: 115 -->
 
 # Si Aponitolau
 
@@ -2362,7 +2335,7 @@ BATHALÀ
 
 <div style="page-break-after: always;"></div>
 
-<!-- compressed-page: 93 | original-pages: 116 -->
+<!-- compressed-page: 92 | original-pages: 116 -->
 
 # Si Angaló
 
@@ -2394,7 +2367,7 @@ BATHALÀ
 
 <div style="page-break-after: always;"></div>
 
-<!-- compressed-page: 94 | original-pages: 117 -->
+<!-- compressed-page: 93 | original-pages: 117 -->
 
 # Si Balangáw
 
@@ -2407,7 +2380,7 @@ BATHALÀ
 
 <div style="page-break-after: always;"></div>
 
-<!-- compressed-page: 95 | original-pages: 118 -->
+<!-- compressed-page: 94 | original-pages: 118 -->
 
 # Si Amánsináya
 
@@ -2422,7 +2395,7 @@ BATHALÀ
 
 <div style="page-break-after: always;"></div>
 
-<!-- compressed-page: 96 | original-pages: 119 -->
+<!-- compressed-page: 95 | original-pages: 119 -->
 
 # Si Malyári
 
@@ -2453,7 +2426,7 @@ BATHALÀ
 
 <div style="page-break-after: always;"></div>
 
-<!-- compressed-page: 97 | original-pages: 120 -->
+<!-- compressed-page: 96 | original-pages: 120 -->
 
 # Si Manawbanaw
 
@@ -2480,7 +2453,7 @@ BATHALÀ
 
 <div style="page-break-after: always;"></div>
 
-<!-- compressed-page: 98 | original-pages: 121 -->
+<!-- compressed-page: 97 | original-pages: 121 -->
 
 # Si Libtákan
 
@@ -2494,7 +2467,7 @@ BATHALÀ
 
 <div style="page-break-after: always;"></div>
 
-<!-- compressed-page: 99 | original-pages: 122 -->
+<!-- compressed-page: 98 | original-pages: 122 -->
 
 # Si Kaptán
 
@@ -2525,7 +2498,7 @@ BATHALÀ
 
 <div style="page-break-after: always;"></div>
 
-<!-- compressed-page: 100 | original-pages: 123 -->
+<!-- compressed-page: 99 | original-pages: 123 -->
 
 # Si Gugúrang
 
@@ -2543,7 +2516,7 @@ BATHALÀ
 
 <div style="page-break-after: always;"></div>
 
-<!-- compressed-page: 101 | original-pages: 124 -->
+<!-- compressed-page: 100 | original-pages: 124 -->
 
 # Si Tungkúng Lángit
 
@@ -2572,7 +2545,7 @@ BATHALÀ
 
 <div style="page-break-after: always;"></div>
 
-<!-- compressed-page: 102 | original-pages: 125 -->
+<!-- compressed-page: 101 | original-pages: 125 -->
 
 # Si Burólakaw
 
@@ -2585,7 +2558,7 @@ BATHALÀ
 
 <div style="page-break-after: always;"></div>
 
-<!-- compressed-page: 103 | original-pages: 125 -->
+<!-- compressed-page: 102 | original-pages: 125 -->
 
 # Si Makabósog
 
@@ -2599,7 +2572,7 @@ BATHALÀ
 
 <div style="page-break-after: always;"></div>
 
-<!-- compressed-page: 104 | original-pages: 126;127 -->
+<!-- compressed-page: 103 | original-pages: 126;127 -->
 
 # Sina Manáma at Ogássi
 
@@ -2621,13 +2594,11 @@ ang dahilan ng kamatayan ng tao.
 
 _[Guhit ni Kat Matias.]_
 
-_[Guhit ni Kat Matias.]_
-
 BATHALÀ
 
 <div style="page-break-after: always;"></div>
 
-<!-- compressed-page: 105 | original-pages: 128 -->
+<!-- compressed-page: 104 | original-pages: 128 -->
 
 # Sina Talagbúsaw at Mandarangan
 

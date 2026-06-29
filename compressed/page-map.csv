@@ -5,102 +5,101 @@ compressed_page,file,title,original_pages,notes
 4,pages/0004.md,Ang Ambáboy,13,
 5,pages/0005.md,Si Masíken,14,
 6,pages/0006.md,Ansísit,15,
-7,pages/0007.md,Hindi mabása: pahina 16,16,unreadable source placeholder
-8,pages/0008.md,Ang Batíbat,17,
-9,pages/0009.md,Ang Mántiw,18,
-10,pages/0010.md,Ang Nunò sa Punsó,19,
-11,pages/0011.md,Ang Daligmatá,20,
-12,pages/0012.md,Ang Tamáwo,21,
-13,pages/0013.md,Ang Kokok,22,
-14,pages/0014.md,Si Magwáyen,23,
-15,pages/0015.md,Ang Búsaw,24;25,merged original pages; includes illustration-only page placeholder
-16,pages/0016.md,Blangkong pahina 26,26,blank page placeholder
-17,pages/0017.md,Mga Halímaw,27,section header
-18,pages/0018.md,Ang Berkákan,28,
-19,pages/0019.md,Ang Ikugan,29,
-20,pages/0020.md,Ang Tikbálang,30;31,merged original pages
-21,pages/0021.md,Sina Tandáyag at Rabut,32;33,merged original pages
-22,pages/0022.md,Si Oriól,34,
-23,pages/0023.md,Ang Onglô,35,
-24,pages/0024.md,Ang Sigbín,36;37,merged original pages
-25,pages/0025.md,Ang Bakunáwa,38,
-26,pages/0026.md,Si Bungisngís,39,
-27,pages/0027.md,Ang Garúda,40,
-28,pages/0028.md,Ang Lumbóng,41,
-29,pages/0029.md,Ang Minokawa,42,
-30,pages/0030.md,Ang Nága,43;44,merged original pages; includes illustration-only page placeholder
-31,pages/0031.md,Ang Siyókoy,45,
-32,pages/0032.md,Blangkong pahina 46,46,blank page placeholder
-33,pages/0033.md,Mga Aswáng,47,section header
-34,pages/0034.md,Ang Manananggál,48;49,merged original pages
-35,pages/0035.md,Ang Dánag,50,
-36,pages/0036.md,Ang Huklúban,51,
-37,pages/0037.md,Ang Mandurugô,52,
-38,pages/0038.md,Ang Yanggáw,53,
-39,pages/0039.md,Ang Amalanhig,54,
-40,pages/0040.md,Ang Mangkukúlam,55,
-41,pages/0041.md,Ang Kiwig,56;57,merged original pages
-42,pages/0042.md,Ang Mambabárang,58;59,merged original pages
-43,pages/0043.md,Blangkong pahina 60,60,blank page placeholder
-44,pages/0044.md,Mga Bayáni,61,section header
-45,pages/0045.md,Sina Humadapnon at Lábaw Donggón,62;63,merged original pages
-46,pages/0046.md,Si Lam-ang,64;65,merged original pages
-47,pages/0047.md,Indarapátra at Sulaymán,66;67,merged original pages
-48,pages/0048.md,"Sina Baltóg, Handiong, at Bántong",68;69,merged original pages
-49,pages/0049.md,Si Aliguyon,70,
-50,pages/0050.md,Si Taguwasi,71,
-51,pages/0051.md,Si Bantugën,72,
-52,pages/0052.md,Si Tud Bulul,73,
-53,pages/0053.md,Si Agyu,74,
-54,pages/0054.md,Si Banna,75,
-55,pages/0055.md,Si Laón,76,
-56,pages/0056.md,Si Kudaman,77,
-57,pages/0057.md,Si Abunnawas,78,
-58,pages/0058.md,Si Juan Púsong,79,
-59,pages/0059.md,Si Taake,80;81,merged original pages
-60,pages/0060.md,Blangkong pahina 82,82,blank page placeholder
-61,pages/0061.md,Mga Aníto,83,section header
-62,pages/0062.md,Ang Lítaw,84,
-63,pages/0063.md,Ang Adárna,85,
-64,pages/0064.md,Ang Amíhan,86,
-65,pages/0065.md,Ang Makabóteng,87,
-66,pages/0066.md,Ang Balatití,88,
-67,pages/0067.md,Ang Pámahándi,89,
-68,pages/0068.md,Ang Karibángsa,90,
-69,pages/0069.md,Ang Tónong,91,
-70,pages/0070.md,Ang Silít,92,
-71,pages/0071.md,Ang Almúgan,93,
-72,pages/0072.md,Ang Limókon,94,split from shared original page
-73,pages/0073.md,Ang Kúra Sambaláni,94,split from shared original page
-74,pages/0074.md,Ang Tahamáling,95,
-75,pages/0075.md,Blangkong pahina 96,96,blank page placeholder
-76,pages/0076.md,Mga Diwatà,97,section header
-77,pages/0077.md,Si Bángan,98,
-78,pages/0078.md,Si Lalahon,99,
-79,pages/0079.md,Si Ibu,100,
-80,pages/0080.md,Si Gaygayóma,101,
-81,pages/0081.md,"Sina Maria Cacao, Maria Makiling, at Maria Sinukuan",102;103,merged original pages
-82,pages/0082.md,Si Idyanále,104,
-83,pages/0083.md,Si Halíya,105,
-84,pages/0084.md,Si Ikapáti,106,
-85,pages/0085.md,Si Alunsína,107,
-86,pages/0086.md,Si Ipememehandi,108,
-87,pages/0087.md,Si Baít Pándi,109,
-88,pages/0088.md,Blangkong pahina 110,110,blank page placeholder
-89,pages/0089.md,Mga Bathalà,111,section header
-90,pages/0090.md,Sina Kabunyían at Lumáwig,112;113,merged original pages
-91,pages/0091.md,Si Kadaklán,114,
-92,pages/0092.md,Si Aponitolau,115,
-93,pages/0093.md,Si Angaló,116,
-94,pages/0094.md,Si Balangáw,117,
-95,pages/0095.md,Si Amánsináya,118,
-96,pages/0096.md,Si Malyári,119,
-97,pages/0097.md,Si Manawbanaw,120,
-98,pages/0098.md,Si Libtákan,121,
-99,pages/0099.md,Si Kaptán,122,
-100,pages/0100.md,Si Gugúrang,123,
-101,pages/0101.md,Si Tungkúng Lángit,124,
-102,pages/0102.md,Si Burólakaw,125,split from shared original page
-103,pages/0103.md,Si Makabósog,125,split from shared original page
-104,pages/0104.md,Sina Manáma at Ogássi,126;127,merged original pages
-105,pages/0105.md,Sina Talagbúsaw at Mandarangan,128,
+7,pages/0007.md,Ang Batíbat,16;17,merged original pages; includes pre-title topic page
+8,pages/0008.md,Ang Mántiw,18,
+9,pages/0009.md,Ang Nunò sa Punsó,19,
+10,pages/0010.md,Ang Daligmatá,20,
+11,pages/0011.md,Ang Tamáwo,21,
+12,pages/0012.md,Ang Kokok,22,
+13,pages/0013.md,Si Magwáyen,23,
+14,pages/0014.md,Ang Búsaw,24;25,merged original pages; includes illustration-only page placeholder
+15,pages/0015.md,Blangkong pahina 26,26,blank page placeholder
+16,pages/0016.md,Mga Halímaw,27,section header
+17,pages/0017.md,Ang Berkákan,28,
+18,pages/0018.md,Ang Ikugan,29,
+19,pages/0019.md,Ang Tikbálang,30;31,merged original pages
+20,pages/0020.md,Sina Tandáyag at Rabut,32;33,merged original pages
+21,pages/0021.md,Si Oriól,34,
+22,pages/0022.md,Ang Onglô,35,
+23,pages/0023.md,Ang Sigbín,36;37,merged original pages
+24,pages/0024.md,Ang Bakunáwa,38,
+25,pages/0025.md,Si Bungisngís,39,
+26,pages/0026.md,Ang Garúda,40,
+27,pages/0027.md,Ang Lumbóng,41,
+28,pages/0028.md,Ang Minokawa,42,
+29,pages/0029.md,Ang Nága,43;44,merged original pages; includes illustration-only page placeholder
+30,pages/0030.md,Ang Siyókoy,45,
+31,pages/0031.md,Blangkong pahina 46,46,blank page placeholder
+32,pages/0032.md,Mga Aswáng,47,section header
+33,pages/0033.md,Ang Manananggál,48;49,merged original pages
+34,pages/0034.md,Ang Dánag,50,
+35,pages/0035.md,Ang Huklúban,51,
+36,pages/0036.md,Ang Mandurugô,52,
+37,pages/0037.md,Ang Yanggáw,53,
+38,pages/0038.md,Ang Amalanhig,54,
+39,pages/0039.md,Ang Mangkukúlam,55,
+40,pages/0040.md,Ang Kiwig,56;57,merged original pages
+41,pages/0041.md,Ang Mambabárang,58;59,merged original pages
+42,pages/0042.md,Blangkong pahina 60,60,blank page placeholder
+43,pages/0043.md,Mga Bayáni,61,section header
+44,pages/0044.md,Sina Humadapnon at Lábaw Donggón,62;63,merged original pages
+45,pages/0045.md,Si Lam-ang,64;65,merged original pages
+46,pages/0046.md,Indarapátra at Sulaymán,66;67,merged original pages
+47,pages/0047.md,"Sina Baltóg, Handiong, at Bántong",68;69,merged original pages
+48,pages/0048.md,Si Aliguyon,70,
+49,pages/0049.md,Si Taguwasi,71,
+50,pages/0050.md,Si Bantugën,72,
+51,pages/0051.md,Si Tud Bulul,73,
+52,pages/0052.md,Si Agyu,74,
+53,pages/0053.md,Si Banna,75,
+54,pages/0054.md,Si Laón,76,
+55,pages/0055.md,Si Kudaman,77,
+56,pages/0056.md,Si Abunnawas,78,
+57,pages/0057.md,Si Juan Púsong,79,
+58,pages/0058.md,Si Taake,80;81,merged original pages
+59,pages/0059.md,Blangkong pahina 82,82,blank page placeholder
+60,pages/0060.md,Mga Aníto,83,section header
+61,pages/0061.md,Ang Lítaw,84,
+62,pages/0062.md,Ang Adárna,85,
+63,pages/0063.md,Ang Amíhan,86,
+64,pages/0064.md,Ang Makabóteng,87,
+65,pages/0065.md,Ang Balatití,88,
+66,pages/0066.md,Ang Pámahándi,89,
+67,pages/0067.md,Ang Karibángsa,90,
+68,pages/0068.md,Ang Tónong,91,
+69,pages/0069.md,Ang Silít,92,
+70,pages/0070.md,Ang Almúgan,93,
+71,pages/0071.md,Ang Limókon,94,split from shared original page
+72,pages/0072.md,Ang Kúra Sambaláni,94,split from shared original page
+73,pages/0073.md,Ang Tahamáling,95,
+74,pages/0074.md,Blangkong pahina 96,96,blank page placeholder
+75,pages/0075.md,Mga Diwatà,97,section header
+76,pages/0076.md,Si Bángan,98,
+77,pages/0077.md,Si Lalahon,99,
+78,pages/0078.md,Si Ibu,100,
+79,pages/0079.md,Si Gaygayóma,101,
+80,pages/0080.md,"Sina Maria Cacao, Maria Makiling, at Maria Sinukuan",102;103,merged original pages
+81,pages/0081.md,Si Idyanále,104,
+82,pages/0082.md,Si Halíya,105,
+83,pages/0083.md,Si Ikapáti,106,
+84,pages/0084.md,Si Alunsína,107,
+85,pages/0085.md,Si Ipememehandi,108,
+86,pages/0086.md,Si Baít Pándi,109,
+87,pages/0087.md,Blangkong pahina 110,110,blank page placeholder
+88,pages/0088.md,Mga Bathalà,111,section header
+89,pages/0089.md,Sina Kabunyían at Lumáwig,112;113,merged original pages
+90,pages/0090.md,Si Kadaklán,114,
+91,pages/0091.md,Si Aponitolau,115,
+92,pages/0092.md,Si Angaló,116,
+93,pages/0093.md,Si Balangáw,117,
+94,pages/0094.md,Si Amánsináya,118,
+95,pages/0095.md,Si Malyári,119,
+96,pages/0096.md,Si Manawbanaw,120,
+97,pages/0097.md,Si Libtákan,121,
+98,pages/0098.md,Si Kaptán,122,
+99,pages/0099.md,Si Gugúrang,123,
+100,pages/0100.md,Si Tungkúng Lángit,124,
+101,pages/0101.md,Si Burólakaw,125,split from shared original page
+102,pages/0102.md,Si Makabósog,125,split from shared original page
+103,pages/0103.md,Sina Manáma at Ogássi,126;127,merged original pages
+104,pages/0104.md,Sina Talagbúsaw at Mandarangan,128,

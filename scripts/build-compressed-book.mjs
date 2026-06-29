@@ -5,10 +5,10 @@ const sourceDirectory = new URL("transcription/pages/", root);
 const compressedDirectory = new URL("compressed/", root);
 const compressedPagesDirectory = new URL("compressed/pages/", root);
 
-// These pages contain no recoverable heading or prose. Keeping each one as a
-// standalone compressed page prevents it from being mistaken for a continuation
-// of the preceding topic.
-const standaloneUnclearPages = new Set([16]);
+// Pages that carry topic material before the actual `#` topic heading appears.
+// The compressed edition should group them with the upcoming heading, not the
+// previous topic.
+const preheadingPagesByNextPage = new Map([[16, 17]]);
 
 // These manuscript-reviewed blank pages are retained as standalone compressed
 // pages so the original pagination map stays complete.
@@ -75,10 +75,6 @@ function splitAtTopicHeadings(text) {
   });
 }
 
-function titleForUnclearPage(page) {
-  return `Hindi mabása: pahina ${page}`;
-}
-
 function titleForBlankPage(page) {
   return `Blangkong pahina ${page}`;
 }
@@ -104,7 +100,11 @@ function joinTopicFragments(fragments) {
   for (const fragment of fragments) {
     const extracted = extractTrailingArtifacts(fragment);
     proseFragments.push(extracted.prose);
-    artifacts.push(...extracted.artifacts);
+    for (const artifact of extracted.artifacts) {
+      if (!artifacts.includes(artifact)) {
+        artifacts.push(artifact);
+      }
+    }
   }
 
   let body = proseFragments.shift() ?? "";
@@ -135,6 +135,7 @@ const sourceFiles = (await fs.readdir(sourceDirectory))
 
 const topics = [];
 let currentTopic;
+const pendingPreheadingPages = new Map();
 
 for (const sourceFile of sourceFiles) {
   const originalPage = Number.parseInt(sourceFile.slice(0, 4), 10);
@@ -142,27 +143,34 @@ for (const sourceFile of sourceFiles) {
   const cleaned = stripPrintedFooter(stripSourceMarker(raw));
   const fragments = splitAtTopicHeadings(cleaned);
 
-  if (fragments.length > 0) {
-    for (const fragment of fragments) {
-      currentTopic = {
-        title: fragment.title,
-        originalPages: [originalPage],
-        fragments: [fragment.text],
-        splitFromSharedPage: fragments.length > 1,
-      };
-      topics.push(currentTopic);
-    }
+  const nextPageForPreheading = preheadingPagesByNextPage.get(originalPage);
+  if (nextPageForPreheading) {
+    pendingPreheadingPages.set(nextPageForPreheading, {
+      originalPage,
+      cleaned,
+    });
     continue;
   }
 
-  if (standaloneUnclearPages.has(originalPage)) {
-    currentTopic = {
-      title: titleForUnclearPage(originalPage),
-      originalPages: [originalPage],
-      fragments: [`# ${titleForUnclearPage(originalPage)}\n\n${cleaned}`],
-      unclear: true,
-    };
-    topics.push(currentTopic);
+  if (fragments.length > 0) {
+    const pendingPreheading = pendingPreheadingPages.get(originalPage);
+    for (const fragment of fragments) {
+      const originalPages = pendingPreheading
+        ? [pendingPreheading.originalPage, originalPage]
+        : [originalPage];
+      const topicFragments = pendingPreheading
+        ? [fragment.text, pendingPreheading.cleaned]
+        : [fragment.text];
+      currentTopic = {
+        title: fragment.title,
+        originalPages,
+        fragments: topicFragments,
+        splitFromSharedPage: fragments.length > 1,
+        hasPreheadingPage: Boolean(pendingPreheading),
+      };
+      topics.push(currentTopic);
+    }
+    pendingPreheadingPages.delete(originalPage);
     continue;
   }
 
@@ -215,8 +223,8 @@ for (const [index, topic] of topics.entries()) {
   if (topic.splitFromSharedPage) {
     notes.push("split from shared original page");
   }
-  if (topic.unclear) {
-    notes.push("unreadable source placeholder");
+  if (topic.hasPreheadingPage) {
+    notes.push("includes pre-title topic page");
   }
   if (topic.blank) {
     notes.push("blank page placeholder");
