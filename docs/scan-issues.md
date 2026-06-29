@@ -12,12 +12,6 @@ The source ID is the one-based page position inside a source PDF:
 Printed page numbers are included when they have been verified. `Unknown`
 means that the scan has not yet been mapped confidently.
 
-## Confirmed text-affecting defects
-
-| Source scan | Printed page | Severity | Problem | Transcription impact | Resolution |
-| --- | ---: | --- | --- | --- | --- |
-| `even-072` | 16 | Critical | Almost the entire page is washed out and illegible. | No trustworthy transcription is currently possible. | Rescan or photograph printed page 16. |
-
 ## Manuscript-reviewed resolutions
 
 These pages were reviewed against the physical manuscript and are no longer
@@ -26,6 +20,7 @@ treated as missing text.
 | Source scan | Printed page | Review result | Transcription action |
 | --- | ---: | --- | --- |
 | `even-075` | 10 | The cut-off sentence ends: “Humuhuni na tulad ng isang ibon ang tiyanak.” | Replaced `[kulang ang scan]` with the verified wording. |
+| `even-072` | 16 | Replacement photo supplied; page contains Batíbat illustration text. | Transcribed the side text and illustration credit. |
 | `even-067` | 26 | Blank page before the **Mga Halímaw** title page on page 27. | Recorded as `[blangkong pahina]`. |
 | `even-056` | 46 | Blank page before the **Mga Aswáng** title page on page 47. | Recorded as `[blangkong pahina]`. |
 | `even-049` | 60 | Blank page before the **Mga Bayáni** title page on page 61. | Recorded as `[blangkong pahina]`. |
